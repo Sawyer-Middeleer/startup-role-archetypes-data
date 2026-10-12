@@ -2,7 +2,7 @@
 
 A snapshot of the work recent Y Combinator startups advertised in October 2026, organized into tasks and four overlapping activities: building, designing, selling, and operating.
 
-[Explore the interactive preview](https://startup-role-archetypes-7c1pfcxkx-sawyermiddeleers-projects.vercel.app) — Vercel authentication may be required during preview.
+[Explore Startup Role Archetypes](https://startup-role-archetypes.vercel.app).
 
 The release contains 1,978 eligible employer-description units across 499 companies. Of these, 1,870 have explicit, required task evidence; 108 have no supported task composition. There are 104 task families and 1,243 canonical tasks, of which 1,226 occur in this release's strict evidence subset. The 16,040 job-task pairs count each canonical task once per job. These are description units, not verified unique vacancies or hires.
 
