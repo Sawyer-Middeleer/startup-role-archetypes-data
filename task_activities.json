@@ -1,0 +1,7489 @@
+[
+  {
+    "task_id": "account_growth__business_reviews",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "account_growth__customer_advocacy",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "account_growth__customer_referrals",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "account_growth__expand_accounts",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "account_growth__identify_expansion",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "account_growth__paid_conversion",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "account_growth__renew_accounts",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "account_growth__retain_accounts",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "account_growth__upsell_motion",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__agent_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__applications",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__browser_computer",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__coding_agents",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__collaboration",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__combine_reasoning_and_code",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__configure_agents",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__content_generation",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__direct_agents",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__document_understanding",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__generate_structured_outputs",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__guardrails",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__human_ai_boundaries",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__implement_learning_algorithms",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__learning_feedback",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__memory_context",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__model_integration",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__model_selection",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__orchestration",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__prediction",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__productize_research",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__prompts",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__reliability",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__scientific_agents",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__training_simulations",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__vision",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__voice",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "agent_engineering__workflow_agents",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__build_behavioral_safeguards",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__build_evaluation_cases",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__build_evaluation_harness",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__build_graders_rewards",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__compare_ai_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__define_evaluation_criteria",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__develop_evaluations_broad",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__diagnose_ai_failures",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__monitor_production_ai",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__publish_benchmarks",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__red_team_ai",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__research_evaluation_methods",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__run_ai_evaluations",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__simulate_agent_users",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__validate_evaluation_quality",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_evaluation__validate_real_world_transfer",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__conduct_ai_research",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__develop_continual_learning",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__develop_learned_representations",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__develop_model_architectures",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__develop_model_interventions",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__develop_post_training_methods",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__develop_probabilistic_inference",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__develop_rewards",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__develop_rl_algorithms",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__implement_learning_algorithms",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__improve_model_transfer",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__research_audio_understanding",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__research_learning_data",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__research_model_behavior",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__research_model_reasoning",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__research_physical_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__research_quantum_ml",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__research_training_dynamics",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__research_training_environments",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__review_reproduce_research",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__run_model_experiments",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_research__set_research_agenda",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ai_supervision__approve_agent_actions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "ai_supervision__handle_agent_exceptions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "ai_supervision__monitor_live_interactions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "ai_supervision__operate_agent_workflows",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "ai_supervision__orchestrate_coding_agents",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "ai_supervision__review_generated_outputs",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "application_engineering__collaboration",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "application_engineering__customize",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "application_engineering__demo_apps",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "application_engineering__domain_workflows",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "application_engineering__full_stack",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "application_engineering__generalize",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "application_engineering__growth_features",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "application_engineering__iterate",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "application_engineering__product_features",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "application_engineering__productize_research",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "application_engineering__prototype",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "application_engineering__recommend_content",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "application_engineering__scripts",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__ad_serving",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__apis",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__auditability",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__background_jobs",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__billing_payments",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__durable_workflows",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__event_subscriptions",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__financial_computation",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__message_delivery",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__policy_logic",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__realtime",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__services",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__state_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "backend__transaction_workflows",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "brand_design__adapt_visual_assets",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "brand_design__build_asset_templates",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "brand_design__define_visual_identity",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "brand_design__design_campaign_assets",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "brand_design__design_packaging",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "brand_design__design_presentations",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "brand_design__maintain_brand_consistency",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "business_analytics__analyze_operational_data",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_analytics__analyze_product_usage",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_analytics__build_analytical_workflows",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_analytics__build_dashboards",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_analytics__communicate_business_insights",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_analytics__define_metrics",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_analytics__instrument_outcomes",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_analytics__maintain_analytical_records",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_analytics__measure_business_outcomes",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_analytics__model_business_questions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_analytics__model_business_value",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_analytics__perform_business_analysis",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_analytics__score_customer_health",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_automation__automate_business_workflows",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__automate_compliance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__automate_content_marketing",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__automate_crm_lifecycle",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__automate_customer_service",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__automate_finance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__automate_insurance_operations",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__automate_onboarding",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__automate_outreach",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__automate_prospect_research_scoring",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__automate_quality_review",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__automate_recruiting_people",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__build_internal_applications",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_automation__build_operational_dashboards",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "business_strategy__advise_decisions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_strategy__assess_acquisitions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_strategy__define_operating_model",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_strategy__design_organization",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_strategy__evaluate_opportunities",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_strategy__integrate_acquisitions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_strategy__launch_expansion",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_strategy__run_planning",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_strategy__set_priorities",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "business_strategy__source_acquisitions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "campaign_strategy__allocate_marketing_budget",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "campaign_strategy__convert_marketing_interest",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "campaign_strategy__define_target_audiences",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "campaign_strategy__execute_marketing_campaigns",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "campaign_strategy__model_growth",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "campaign_strategy__plan_product_launches",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "campaign_strategy__run_growth_experiments",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "campaign_strategy__set_channel_strategy",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "campaign_strategy__set_content_strategy",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "campaign_strategy__set_gtm_strategy",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "clinical__appeal_claims",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__audit_authorizations",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__audit_revenue_cycle",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__configure_billing_rules",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__credential_providers",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__deliver_billing",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__diagnose_authorization_failures",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__improve_clinical_workflows",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__perform_imaging",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__prevent_denials",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__recover_receivables",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__resolve_revenue_cycle_exceptions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__run_clinical_workflows",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "clinical__set_clinical_standards",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "community__answer_community_questions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "community__coordinate_contributors",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "community__develop_community_advocacy",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "community__engage_community",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "community__moderate_community",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "community__onboard_community_members",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "community__operate_community_platform",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "community__run_community_programs",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "community__set_community_strategy",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "compilers__build_compiler",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compilers__generate_code",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compilers__investigate_semantics",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compilers__optimize_programs",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compilers__port_backends",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compilers__schedule_instructions",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compilers__search_programs",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compliance__assess_regulatory_risk",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__govern_data_use",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__investigate_transactions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__maintain_compliance_broad",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__maintain_compliance_records",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__maintain_quality_system",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__maintain_trade_compliance",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__manage_deal_compliance",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__manage_security_governance",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__plan_regulatory_path",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__prepare_regulatory_submissions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__respond_security_diligence",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__review_claims_compliance",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__run_audits",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__run_financial_crime_controls",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__run_safety_program",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__verify_employment_eligibility",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compliance__verify_standards",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "compute_systems__automate_bios",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__build_device_drivers",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__build_matching_engine",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__build_reactive_state",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__build_shared_memory",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__build_terminal_transport",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__debug_hardware_runtime",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__detect_hardware_faults",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__extend_accelerator_sandbox",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__implement_file_io",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__implement_kernels",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__improve_runtime_recovery",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__manage_runtime_resources",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__parallelize_algorithms",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__prototype_systems_research",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__snapshot_migrate_runtimes",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "compute_systems__virtualize_gpus",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "content_distribution__amplify_creator_content",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "content_distribution__amplify_launches",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "content_distribution__content_channel_strategy",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "content_distribution__conversational_distribution",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "content_distribution__maintain_published_content",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "content_distribution__manage_editorial_calendar",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "content_distribution__publish_content",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "content_distribution__repurpose_content",
+    "activities": [
+      "designing",
+      "selling"
+    ]
+  },
+  {
+    "task_id": "content_distribution__test_distribution",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "creative_direction__adapt_creative_concepts",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "creative_direction__develop_concepts",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "creative_direction__set_creative_direction",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "creative_direction__test_creative_formats",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "creative_direction__write_creative_briefs",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "creative_direction__write_scripts_storyboards",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "creative_operations__book_guests",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "creative_operations__brief_direct_contributors",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "creative_operations__brief_recording_participants",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "creative_operations__build_production_workflows",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "creative_operations__coordinate_creative_delivery",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "creative_operations__coordinate_recording_sessions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "creative_operations__develop_reusable_templates",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "creative_operations__manage_content_calendar",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "creative_operations__organize_creative_assets",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "creative_operations__source_creative_contributors",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "creative_operations__verify_editorial_quality",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "customer_enablement__advise_technical_use",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_enablement__create_materials",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_enablement__demonstrate_features",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_enablement__design_education",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_enablement__enable_partners",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_enablement__explain_business_use",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_enablement__explain_coverage",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_enablement__explain_security",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_enablement__train_users",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_enablement__transfer_capability",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_implementation__configure_customer_product",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_implementation__coordinate_implementation",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_implementation__deploy_customer_software",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_implementation__handoff_customer_delivery",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_implementation__migrate_customer_data",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_implementation__onboard_customers",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_implementation__standardize_implementation",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_implementation__support_launch_adoption",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_success__advise_customer_strategy",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_success__communicate_customer_updates",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_success__demonstrate_customer_value",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_success__drive_product_adoption",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_success__maintain_customer_relationships",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_success__manage_customer_success_broad",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_success__monitor_account_health",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_success__recover_at_risk_accounts",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_success__run_account_reviews",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__answer_inquiries",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__classify_causes",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__communicate_progress",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__configure_helpdesk",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__coordinate_escalation",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__deescalate",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__diagnose_technical",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__handle_returns",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__maintain_knowledge",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__manage_service_levels",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__pursue_open_cases",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__record_cases",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__resolve_requests",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__surface_patterns",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "customer_support__triage_issues",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_engineering__anonymization",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__capture_data",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__data_catalog",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__data_strategy",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__document_extraction",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__entity_resolution",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__ingest_sources",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__job_orchestration",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__media_processing",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__normalize_sources",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__pipelines",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__provenance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__recoverable_transactions",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__stream_processing",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__sync_sources",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__tokenize_compress_data",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_engineering__warehouse",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_quality__build_quality_checks",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_quality__classify_job_transitions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__clean_structure_data",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__curate_corpus",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__define_review_protocols",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__enter_data",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__give_provider_feedback",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__govern_data_use",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__inspect_data_delivery",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__maintain_data_integrity",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_quality__maintain_schemas",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__maintain_semantics",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__maintain_temporal_integrity",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__monitor_data_quality",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__normalize_job_titles",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__preserve_corrections",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "data_quality__reconcile_records",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__report_pipeline_defects",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__trace_source_data",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__validate_spatial_biology_data",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "data_quality__verify_collection_setup",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "database_storage__build_database_branching",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "database_storage__build_query_engines",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "database_storage__build_storage_caching",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "database_storage__build_storage_recovery",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "database_storage__build_storage_services",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "database_storage__distribute_storage",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "database_storage__implement_queries",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "database_storage__improve_database_connections",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "database_storage__manage_databases",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "database_storage__migrate_database_schemas",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "database_storage__model_data",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "database_storage__optimize_database_performance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "database_storage__optimize_storage",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "deal_execution__close_sales",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "deal_execution__coordinate_deals",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "deal_execution__estimate_quotes",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "deal_execution__manage_contract_changes",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "deal_execution__manage_sales_broad",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "deal_execution__match_transaction_parties",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "deal_execution__navigate_procurement",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "deal_execution__negotiate_terms",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "deal_execution__prepare_proposals",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "deal_execution__scope_price_engagements",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "design_systems__assure_design_fidelity",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "design_systems__build_design_system",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "design_systems__document_design_guidelines",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "design_systems__set_design_standards",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "developer_tools__ai_development_tooling",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__authoring_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__build_systems",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__data_research_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__delivery_pipelines",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__developer_interfaces",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__developer_tools_broad",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__development_environments",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__diagnostic_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__engineering_design_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__engineering_test_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__evaluate_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__example_projects",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__experimentation_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__sdk_libraries",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "developer_tools__shared_frameworks",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__analyze_electrical_performance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__analyze_rf_performance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__architect_optical_links",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__build_harnesses",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__design_circuit_boards",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__design_digital_logic",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__design_electronics",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__design_harnesses",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__design_power_controls",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__design_power_systems",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__design_rf_systems",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__design_sensing_actuation",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__document_electrical_design",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__integrate_electrical_interfaces",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__integrate_imaging_sensors",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__mitigate_interference",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__review_electrical_design",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "electronics__select_components",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__architecture",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__bringup",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__debug_firmware",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__develop_firmware",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__diagnostics",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__embedded_perception",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__fault_handling",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__flight_software",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__integrate_devices",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__linux_platform",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__optimize_device",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__realtime_control",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__sensor_timing",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__sync_edge",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "embedded__updates",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "engineering_process__improve_engineering_workflow",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "engineering_process__plan_engineering_work",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "engineering_process__set_engineering_standards",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "engineering_process__shape_engineering_organization",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "events__event_logistics",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "events__event_outreach",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "events__event_representation",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "events__event_speaking",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "events__event_sponsorship",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "events__event_strategy",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "events__festival_programming",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "events__produce_events",
+    "activities": [
+      "selling",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__arrange_travel",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__coordinate_company_context",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__host_visitors",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__maintain_corporate_records",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__manage_calendars",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__manage_correspondence",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__manage_executive_priorities",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__manage_personal_logistics",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__manage_stakeholder_gifts",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__prepare_executive_briefs",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__represent_executives",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__run_administration_broad",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "executive_operations__run_leadership_meetings",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__deploy_physical_systems",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__field_incident_reviews",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__field_logistics",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__field_operations_broad",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__field_repair",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__fleet_records",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__fleet_updates",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__flight_monitoring",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__flight_operations_broad",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__flight_planning",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__flight_procedures",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__launch_recovery",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__maintain_fleet",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__operate_collection_sites",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__operate_robotic_systems",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__orbital_safety",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__pilot_aircraft",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__preflight_readiness",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__vessel_operations",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "field_operations__vessel_readiness",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__administer_commissions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__administer_deposits",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__administer_expenses",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__administer_payroll",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__build_billing_processes",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__build_partner_payout_processes",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__collect_receivables",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__coordinate_accountants",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__coordinate_tax_filings",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__invoice_customers",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__maintain_books",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__maintain_cap_table",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__manage_finance_operations",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__pay_vendors_contributors",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__post_payments",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__prepare_tax_returns",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__reconcile_accounts",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__recover_failed_payments",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__resolve_payment_blockers",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "finance_operations__review_tax_returns",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "financial_planning__build_financial_models",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "financial_planning__forecast_revenue_capital",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "financial_planning__manage_profit_budget",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "financial_planning__prepare_fiscal_notes",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "financial_planning__report_financial_performance",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "financial_planning__validate_cost_estimates",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "frontend__accessible_responsive",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__agent_controls",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__api_connections",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__architecture",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__browser_extension",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__chat_voice",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__code_prototype",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__collaboration",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__complex_editors",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__feasibility",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__interfaces",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__live_sync",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__marketing_web",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__motion",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__reusable_components",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "frontend__visualization",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "fundraising__coordinate_board_followup",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "fundraising__develop_pitch",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "fundraising__engage_investors",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "fundraising__maintain_investor_crm",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "fundraising__prepare_fundraise",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "fundraising__prepare_materials",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "fundraising__report_investors",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "graphics_games__build_game_mechanics",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "graphics_games__build_media_editor",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "graphics_games__build_rendering_engine",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "graphics_games__build_visualization_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "graphics_games__develop_games_broad",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "graphics_games__process_media",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__analytics_infrastructure",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__analyze_calls",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__attribution",
+    "activities": [
+      "selling",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__audit_tracking",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__campaign_analysis",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__cohort_analysis",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__content_analysis",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__conversion_analysis",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__dashboards",
+    "activities": [
+      "selling",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__define_metrics",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__evaluate_experiments",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__instrument",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__recommend_investment",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__report_performance",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "growth_analytics__unit_economics",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "hardware_architecture__control_configuration",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_architecture__define_hardware_requirements",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_architecture__define_operating_concepts",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_architecture__define_subsystem_interfaces",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_architecture__define_system_architecture",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_architecture__develop_hardware_broad",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_architecture__direct_technical_development",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_architecture__evaluate_design_tradeoffs",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_architecture__model_system_performance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_architecture__resolve_integration_risks",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_architecture__select_hardware_components",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_integration__bring_up_electronics",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_integration__build_wiring",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_integration__configure_calibrate_hardware",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_integration__fabricate_prototypes",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_integration__integrate_hardware_subsystems",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_integration__repair_hardware",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__analyze_test_results",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__automate_hardware_tests",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__board_bringup",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__calibrate_hardware",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__configuration_verification",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__correlate_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__digital_verification",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__environmental_qualification",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__failure_analysis",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__flight_field_tests",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__hardware_in_loop",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__measure_test_data",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__test_fixtures",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__test_plans",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__test_readiness",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "hardware_testing__validate_hardware",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "implementation_discovery__discover_customer_workflows",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "implementation_discovery__discover_technical_requirements",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "implementation_discovery__run_discovery_workshops",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "implementation_discovery__scope_customer_delivery",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "implementation_discovery__specify_customer_solutions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "infrastructure__caching",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__capacity_planning",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "infrastructure__cost_optimization",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "infrastructure__deploy_environments",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "infrastructure__deploy_production_services",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "infrastructure__device_fleets",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__distributed_state",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__infrastructure_code",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__kubernetes",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "infrastructure__media_transport",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__migrations",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__network_diagnosis",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "infrastructure__networks",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__operate_cloud",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "infrastructure__orchestrate",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__platform_architecture",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__provision_automation",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__sandboxes",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__scale_capacity",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__telephony",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "infrastructure__tenant_isolation",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "infrastructure__workload_migration",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "insurance__activate_market_access",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__assess_insurance_risk",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__bind_coverage",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__codify_insurance_judgment",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__develop_carrier_relationships",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__evaluate_placement_outcomes",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__explain_insurance_coverage",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__handoff_insurance_accounts",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__maintain_market_records",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__manage_policy_renewals",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__negotiate_carrier_arrangements",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__negotiate_coverage_terms",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__plan_market_capacity",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__prepare_insurance_submissions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__select_insurance_markets",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__service_insurance_accounts",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__structure_coverage",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__support_premium_audits",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "insurance__verify_coverage_documentation",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "integration_engineering__architect_integration",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "integration_engineering__build_integration_framework",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "integration_engineering__build_system_integrations",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "integration_engineering__configure_industrial_protocols",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "integration_engineering__debug_integrations",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "lab_operations__biological_production",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "lab_operations__biological_purification",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "lab_operations__cryogenic_operations",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "lab_operations__lab_safety",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "lab_operations__laboratory_records",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "lab_operations__maintain_laboratories",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "lab_operations__run_assays",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "lab_operations__set_up_laboratories",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__administer_equity",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__advise_commercial_corporate_law",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__advise_employment_law",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__advise_regulatory_law",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__assess_legal_risk",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__conduct_legal_diligence",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__coordinate_outside_counsel",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__draft_contracts",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__draft_legal_correspondence",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__enforce_intellectual_property",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__execute_acquisitions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__execute_financings",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__form_entities",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__improve_legal_templates",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__maintain_corporate_records",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__maintain_equity_records",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__manage_governance",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__manage_ip_rights",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__manage_legal_matters",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__monitor_legal_changes",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__negotiate_contracts",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__organize_legal_documents",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__prepare_governance_documents",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__research_law",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__review_contracts",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__settle_legal_claims",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__summarize_legal_documents",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__support_financing_matters",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__triage_legal_matters",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "legal__validate_legal_product",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "lending_operations__resolve_cases",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "lending_operations__structure_loans",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "lifecycle_growth__activation",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "lifecycle_growth__behavior_triggers",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "lifecycle_growth__demo_agent_channel",
+    "activities": [
+      "selling",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "lifecycle_growth__identify_intent",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "lifecycle_growth__improve_conversion",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "lifecycle_growth__lifecycle_campaigns",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "lifecycle_growth__product_growth",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "lifecycle_growth__referral_loops",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "lifecycle_growth__retention",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "lifecycle_growth__run_experiments",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "lifecycle_growth__upsell_flows",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "logistics__coordinate_logistics",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__coordinate_shipments",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__drive_deliveries",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__forecast_demand",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__inventory_control",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__inventory_placement",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__material_handling",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__material_systems",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__order_tracking",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__pack_shipments",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__receive_goods",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__replenishment_planning",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__returns_handling",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__route_planning",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__secure_loads",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "logistics__warehouse_organization",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__correct_quality",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__factory_layout",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__factory_setup",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__improve_processes",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__industrialize",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__instructions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__manufacturability",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__production_checks",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__production_tradeoffs",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__release_controls",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__technology_transfer",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__tooling",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "manufacturing_engineering__understand_process",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__assemble_hardware",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__handoff_production",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__improve_assembly_instructions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__inspect_build_quality",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__machine_parts",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__organize_production_floor",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__record_production",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__release_production_orders",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__resolve_nonconformances",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__resolve_production_disruptions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__scale_production",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__schedule_production",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "manufacturing_operations__support_production",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "market_research__buyer_research",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "market_research__channel_research",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "market_research__competitor_analysis",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "market_research__market_analysis",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "market_research__market_feedback",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "market_research__procurement_market_intelligence",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "market_research__trend_monitoring",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "market_research__validate_market",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "mechanical__aerodynamic_analysis",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__cad_modeling",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__durability_serviceability",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__engineering_drawings",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__fluid_propulsion_analysis",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__fluid_propulsion_design",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__material_selection",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__mechanical_design_broad",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__mechanical_dynamics",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__mechanical_tradeoffs",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__mechanism_design",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__packaging_design",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__structural_analysis",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__structure_design",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__thermal_analysis",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mechanical__thermal_design",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__deploy_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__edge_inference",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__experiment_systems",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__feature_pipelines",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__learning_feedback",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__ml_infrastructure",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__mlops",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__operate_models",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "ml_platform__optimize_inference",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__platform_selection",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__routing",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__serving",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__training_efficiency",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "ml_platform__training_infrastructure",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mobile_desktop__desktop_features",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mobile_desktop__mobile_features",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mobile_desktop__mobile_media",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mobile_desktop__mobile_sharing",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mobile_desktop__mobile_shell",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mobile_desktop__offline_sync",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mobile_desktop__os_integration",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "mobile_desktop__release_mobile",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_optimization__compress_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_optimization__distill_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_optimization__optimize_inference",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_optimization__optimize_serving",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_optimization__quality_efficiency_tradeoffs",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_optimization__token_efficiency",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_training__post_train_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_training__pretrain_foundation_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_training__retrain_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_training__train_agent_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_training__train_generation_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_training__train_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_training__train_perception_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_training__train_prediction_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_training__train_reinforcement_policies",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "model_training__train_robot_policies",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "observability__alerts",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "observability__audit_logging",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "observability__cost_tracing",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "observability__dashboards",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "observability__diagnostic_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "observability__instrument_systems",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "observability__log_pipeline",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "observability__prioritize_issue_signals",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "observability__release_traceability",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "observability__replay_agents",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "observability__thresholds",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "observability__trace_ai",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "paid_acquisition__allocate_ad_budget",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "paid_acquisition__optimize_paid_campaigns",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "paid_acquisition__run_paid_campaigns",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "paid_acquisition__test_paid_acquisition",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "partnerships__develop_partnerships",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "partnerships__joint_marketing",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "partnerships__manage_partner_relationships",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "partnerships__marketplace_channels",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "partnerships__partner_agreements",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "partnerships__partner_onboarding",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "partnerships__partner_outreach",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "partnerships__partner_pipeline",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "partnerships__partner_strategy",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "partnerships__platform_certification",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "partnerships__source_partners",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "people_development__deliver_safety_training",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_development__deliver_staff_training",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_development__design_learning_programs",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_development__develop_careers",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_development__develop_training_content",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_development__mentor_colleagues",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_development__share_sales_knowledge",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_development__teach_ai_workflows",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_development__train_interviewers",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_management__allocate_workloads",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_management__build_team_structure",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_management__lead_teams",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_management__manage_performance",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__administer_employee_requests",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__administer_payroll_benefits",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__benchmark_compensation",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__build_culture",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__coordinate_employment_compliance",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__define_career_levels",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__define_people_policies",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__design_compensation",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__evaluate_people_programs",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__improve_retention",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__maintain_hr_systems",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__onboard_offboard_employees",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "people_operations__run_performance_reviews",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "performance__benchmark_performance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "performance__compute_cost",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "performance__distributed_performance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "performance__frontend_performance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "performance__gpu_performance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "performance__memory_efficiency",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "performance__optimize_software_broad",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "performance__profile_bottlenecks",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "performance__runtime_performance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "performance__voice_latency",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "positioning__compare_competitors",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "positioning__define_brand_voice",
+    "activities": [
+      "designing",
+      "selling"
+    ]
+  },
+  {
+    "task_id": "positioning__define_positioning",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "positioning__develop_messaging",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "positioning__refine_positioning_from_evidence",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "positioning__test_messaging",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "pricing_packaging__analyze_pricing",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "pricing_packaging__define_pricing",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "pricing_packaging__package_product_offers",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "pricing_packaging__set_promotions",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "pricing_packaging__synthesize_pricing_feedback",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "pricing_packaging__test_pricing",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "process_improvement__automation_discovery",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "process_improvement__diagnose_process",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "process_improvement__human_automation_boundaries",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "process_improvement__improve_processes",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "process_improvement__map_workflows",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "process_improvement__process_experiments",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "process_improvement__rollout_adoption",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "process_improvement__select_operating_tools",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "process_improvement__standardize_playbooks",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "procurement__coordinate_supplier_transfer",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "procurement__manage_suppliers",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "procurement__negotiate_supplier_agreements",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "procurement__plan_sourcing_strategy",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "procurement__purchase_goods_services",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "procurement__qualify_suppliers",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "procurement__source_suppliers",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "product_definition__decision_process",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "product_definition__prioritize",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "product_definition__product_behavior",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_definition__product_feedback",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "product_definition__requirements",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "product_definition__scope_features",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "product_definition__strategy_roadmap",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "product_definition__success_criteria",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "product_design__design_agent_oversight",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__design_conversational_interactions",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__design_customer_journeys",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__design_data_visualization",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__design_engagement_mechanics",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__design_interfaces_flows",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__design_marketing_pages",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__design_motion_states",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__design_onboarding",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__design_physical_product_experience",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__design_privacy_controls",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__design_product_broad",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__improve_usability",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__prototype_product_experiences",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_design__review_design_feasibility",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_research__collect_feedback",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_research__discover_user_needs",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_research__feedback_process",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "product_research__observe_users",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_research__synthesize_research",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_research__test_concepts",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "product_research__user_interviews",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "production_reliability__automate_recovery",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "production_reliability__fault_tolerance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "production_reliability__improve_reliability",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "production_reliability__incident_process",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "production_reliability__messaging_delivery",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "production_reliability__monitor_services",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "production_reliability__on_call",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "production_reliability__operate_services",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "production_reliability__postmortems",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "production_reliability__prevent_recurrence",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "production_reliability__resolve_incidents",
+    "activities": [
+      "building",
+      "operating"
+    ]
+  },
+  {
+    "task_id": "project_delivery__coordinate_releases",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "project_delivery__coordinate_stakeholders",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "project_delivery__decision_facilitation",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "project_delivery__delivery_capacity",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "project_delivery__plan_projects",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "project_delivery__project_ownership",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "project_delivery__report_status",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "project_delivery__requirements_traceability",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "project_delivery__resolve_blockers",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "project_delivery__scope_projects",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "project_delivery__track_delivery",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "prospecting__book_meetings",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__build_lists",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__event_prospecting",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__field_prospecting",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__follow_up",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__government_solicitations",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__inbound_response",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__introductions",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__outbound",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__outbound_programs",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__prioritize_accounts",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__qualify_leads",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__research_accounts",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__source_pipeline",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__test_outreach",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "prospecting__write_outreach",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "public_relations__advise_public_policy",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "public_relations__build_external_credibility",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "public_relations__coordinate_announcements",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "public_relations__manage_public_stakeholder_relations",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "public_relations__represent_policy_interests",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "public_relations__secure_media_placements",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "public_relations__support_public_communications",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "recruiting__assess_candidates",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__assessment_frameworks",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__candidate_communication",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__close_candidates",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__coordinate_interviews",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__define_roles",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__employer_brand",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__pipeline_records",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__recruit_broad",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__recruiting_analytics",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__recruiting_systems",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__referral_programs",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__source_candidates",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__sourcing_strategy",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "recruiting__talent_partnerships",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "research_communication__develop_research_partnerships",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "research_communication__document_research",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "research_communication__present_research",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "research_communication__produce_reproducibility_artifacts",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "research_communication__publish_research",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "revenue_operations__configure_revenue_tools",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "revenue_operations__define_sales_process",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "revenue_operations__document_sales_playbooks",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "revenue_operations__enrich_commercial_records",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "revenue_operations__forecast_revenue",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "revenue_operations__maintain_crm_records",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "revenue_operations__maintain_enablement_library",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "revenue_operations__manage_partner_attribution",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "revenue_operations__route_handoff_leads",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "revenue_operations__support_sales_operations_broad",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "revenue_operations__test_sales_motions",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__audio",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__autopilot_config",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__calibrate",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__connect_perception",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__control_loops",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__deploy_policies",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__fault_recovery",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__fleet_autonomy",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__guidance_navigation",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__manipulation",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__perception",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__robotics_features",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__sensor_fusion",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "robotics_controls__synchronize",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "sales_discovery__advance_sales_opportunities",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "sales_discovery__conduct_sales_calls",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "sales_discovery__conduct_sales_discovery",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "sales_discovery__coordinate_buying_stakeholders",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "sales_discovery__develop_buyer_relationships",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "sales_discovery__plan_accounts",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "sales_discovery__prepare_sales_handoffs",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "sales_discovery__qualify_opportunities",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "sales_discovery__schedule_sales_meetings",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__backtesting",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__benchmark_compute",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__bioinformatics",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__client_simulation",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__complexity_analysis",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__correlate_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__flight_dynamics",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__geometry",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__image_registration",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__monte_carlo",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__numerical_stability",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__optical_links",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__optimization",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__physics_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__quantum_algorithms",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__quantum_circuits",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__scientific_analysis",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__sim_real",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__simulated_societies",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__simulation_engine",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__simulation_integration",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_computing__simulation_roadmap",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__analyze_research",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__biological_data_analysis",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__biological_failure_analysis",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__biological_learning",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__biological_learning_experiments",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__biological_study_design",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__bioproduction_optimization",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__delivery_efficacy",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__develop_cell_assays",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__develop_insect_bioassays",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__facility_physics_modeling",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__financial_correlation_models",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__geological_interpretation",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__lipid_formulation",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__materials_modeling",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__materials_synthesis",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__orbital_analysis",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__physical_representations",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__quantum_benchmarks",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__quantum_control",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__quantum_device_modeling",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__quantum_fault_tolerance",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__quantum_method_selection",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__quantum_resource_modeling",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__regulatory_dna_validation",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__research_broad",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__research_experiments",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__research_strategy",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__strain_engineering",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__validate_methods",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "scientific_research__viral_delivery_engineering",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "search_acquisition__ai_answer_visibility",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "search_acquisition__keyword_research",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "search_acquisition__organic_search",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "search_acquisition__programmatic_search",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "search_acquisition__search_authority",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "search_acquisition__search_content",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "search_acquisition__search_measurement",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "search_acquisition__search_strategy",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "search_acquisition__technical_seo",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "search_retrieval__build_context_memory",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "search_retrieval__build_retrieval",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "search_retrieval__build_search_indexes",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "search_retrieval__generate_embeddings",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "search_retrieval__infer_entity_attributes",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "search_retrieval__map_citations",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "search_retrieval__model_knowledge",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "search_retrieval__rank_retrieval_results",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "search_retrieval__replay_temporal_knowledge",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "search_retrieval__resolve_entities",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "search_retrieval__rewrite_search_queries",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__anonymize_sensitive_data",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__automate_security_workflows",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__build_security_detection",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__detect_sensitive_data",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__implement_audit_logging",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__implement_authentication",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__implement_authorization",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__implement_data_governance_controls",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__implement_security_controls",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__isolate_workloads",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__mitigate_ai_misuse",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__protect_credentials",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__remediate_vulnerabilities",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_engineering__secure_software_supply_chain",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_operations__monitor_threats",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "security_operations__respond_incidents",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "security_operations__review_incidents",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "security_testing__automate_tests",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_testing__build_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_testing__disclose",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "security_testing__evaluate_privacy",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_testing__pentest",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_testing__research_attacks",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_testing__scan",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "security_testing__security_review",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "security_testing__triage_vulnerabilities",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "security_testing__validate_findings",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "service_operations__data_delivery",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__managed_software",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__manual_data_entry",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__marketplace_channel_operations",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__marketplace_reviews_returns",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__match_service_users",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__moderate_service_interactions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__post_call_processing",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__schedule_service_interactions",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__service_commitments",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__service_delivery_broad",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__service_disputes",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__service_quality_review",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "service_operations__service_reports",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "software_architecture__define_api_abstractions",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_architecture__define_consistency_semantics",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_architecture__define_extensibility",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_architecture__define_system_structure",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_architecture__plan_architecture_scaling",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_architecture__prototype_technical_approaches",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_architecture__select_technologies",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_architecture__set_technical_direction_broad",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_maintenance__debug_software",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_maintenance__fix_software_defects",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_maintenance__maintain_software",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_maintenance__optimize_existing_software",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_maintenance__refactor_code",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_maintenance__reproduce_failures",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_maintenance__review_code",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_testing__automate_static_checks",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_testing__build_automated_tests",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_testing__formalize_correctness",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_testing__manage_test_coverage",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_testing__report_reproduce_bugs",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_testing__run_acceptance_tests",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_testing__run_exploratory_tests",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_testing__test_interface_accessibility",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_testing__test_load_failures",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_testing__test_protocol_compatibility",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "software_testing__test_software",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "solution_sales__build_demos",
+    "activities": [
+      "building",
+      "selling"
+    ]
+  },
+  {
+    "task_id": "solution_sales__business_cases",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "solution_sales__demonstrate_products",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "solution_sales__pilot_criteria",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "solution_sales__presales_process",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "solution_sales__proof_setup",
+    "activities": [
+      "building",
+      "selling"
+    ]
+  },
+  {
+    "task_id": "solution_sales__run_pilots",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "solution_sales__scope_solutions",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "solution_sales__technical_advice",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "solution_sales__technical_validation",
+    "activities": [
+      "selling"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__create_training_materials",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__document_build_service_steps",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__document_hardware_design",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__document_implementation_patterns",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__document_issues_learnings",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__document_operating_procedures",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__document_technical_systems",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__maintain_knowledge_bases",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__present_technical_work",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__synthesize_operational_context",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__write_developer_guides",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__write_engineering_specifications",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__write_technical_reports",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__write_test_procedures",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "technical_documentation__write_user_help",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "trading__investment_strategy",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "trading__market_structure_research",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "trading__operate_pricing_risk",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "trading__portfolio_risk",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "trading__set_trading_prices",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "trading__strategy_risk",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "trading__value_contracts",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__annotate_learning_data",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__author_learning_tasks",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__build_annotation_review_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "training_data__build_data_production_tools",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "training_data__build_data_quality_tooling",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "training_data__build_environment_tooling",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "training_data__build_learning_datasets",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "training_data__build_training_environments",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "training_data__codify_training_knowledge",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__collect_training_data",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__curate_learning_data",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__define_data_quality_standards",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__design_reward_signals",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "training_data__engineer_predictive_features",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "training_data__generate_synthetic_data",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "training_data__govern_learning_datasets",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__improve_learning_data",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__measure_dataset_quality",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__mine_learning_trajectories",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "training_data__record_training_speech",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__review_learning_data_quality",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__source_learning_data",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "training_data__specify_learning_datasets",
+    "activities": [
+      "building"
+    ]
+  },
+  {
+    "task_id": "video_audio__audio_post",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__composite",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__direct_subjects",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__edit_video",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__film",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__generate_shots",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__model_3d",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__motion_graphics",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__package_video",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__photograph",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__podcast",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__present",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__produce_video",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__render_3d",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "video_audio__voice_creative",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__activate_supply",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__approve_remove_contributors",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__coordinate_communications",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__design_contributor_operations",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__design_incentives",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__design_qualification_training",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__improve_attendance",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__launch_collection_networks",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__manage_contributors",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__manage_partner_relationships",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__match_assign_work",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__measure_performance",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__onboard_contributors",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__plan_capacity",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__prioritize_collection",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__research_participation",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__resolve_disputes",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__review_work_quality",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__support_contributors",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workforce_operations__validate_collection_pilots",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__assess_safety_hazards",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__construct_facilities",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__coordinate_workspace_access",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__enforce_safety_protocols",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__establish_safety_program",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__establish_workplaces",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__furnish_workplaces",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__host_visitors",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__implement_safety_controls",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__improve_office_processes",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__install_production_equipment",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__investigate_safety_incidents",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__maintain_facility_infrastructure",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__maintain_internal_tools",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__maintain_workplace_computing",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__maintain_workspaces",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__manage_office_services",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__provision_internal_software",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "workplace__resolve_facility_needs",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "writing__edit_fact_check",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "writing__interview_for_content",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "writing__research_content",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "writing__translate_content",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "writing__write_business_briefs",
+    "activities": [
+      "operating"
+    ]
+  },
+  {
+    "task_id": "writing__write_commercial_copy",
+    "activities": [
+      "designing",
+      "selling"
+    ]
+  },
+  {
+    "task_id": "writing__write_customer_stories",
+    "activities": [
+      "designing",
+      "selling"
+    ]
+  },
+  {
+    "task_id": "writing__write_editorial_content",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "writing__write_sales_materials",
+    "activities": [
+      "designing",
+      "selling"
+    ]
+  },
+  {
+    "task_id": "writing__write_scripts",
+    "activities": [
+      "designing"
+    ]
+  },
+  {
+    "task_id": "writing__write_training_material",
+    "activities": [
+      "operating"
+    ]
+  }
+]

@@ -1,0 +1,2996 @@
+[
+  {
+    "company_id": "30250",
+    "name": "10x",
+    "batch": "Winter 2025",
+    "domain": "www.10xdental.com"
+  },
+  {
+    "company_id": "31098",
+    "name": "10x Science",
+    "batch": "Winter 2026",
+    "domain": "10xscience.com"
+  },
+  {
+    "company_id": "32552",
+    "name": "6thSense",
+    "batch": "Summer 2026",
+    "domain": "6thsense.dev"
+  },
+  {
+    "company_id": "33056",
+    "name": "83 Sciences",
+    "batch": "Summer 2026",
+    "domain": "83sciences.ai"
+  },
+  {
+    "company_id": "31193",
+    "name": "9 Mothers",
+    "batch": "Spring 2026",
+    "domain": "9mothers.com"
+  },
+  {
+    "company_id": "30958",
+    "name": "Absurd",
+    "batch": "Fall 2025",
+    "domain": "absurd.com"
+  },
+  {
+    "company_id": "30078",
+    "name": "Abundant",
+    "batch": "Fall 2024",
+    "domain": "www.abundant.ai"
+  },
+  {
+    "company_id": "30234",
+    "name": "Adam",
+    "batch": "Winter 2025",
+    "domain": "adam.new"
+  },
+  {
+    "company_id": "30596",
+    "name": "Adaptional",
+    "batch": "Summer 2025",
+    "domain": "www.adaptional.com"
+  },
+  {
+    "company_id": "30529",
+    "name": "Adentris",
+    "batch": "Spring 2025",
+    "domain": "www.adentris.com"
+  },
+  {
+    "company_id": "31434",
+    "name": "Adialante",
+    "batch": "Spring 2026",
+    "domain": "www.adialante.com"
+  },
+  {
+    "company_id": "31138",
+    "name": "Aemon",
+    "batch": "Winter 2026",
+    "domain": "aemon.ai"
+  },
+  {
+    "company_id": "30303",
+    "name": "AfterQuery",
+    "batch": "Winter 2025",
+    "domain": "afterquery.com"
+  },
+  {
+    "company_id": "30611",
+    "name": "AgentMail",
+    "batch": "Summer 2025",
+    "domain": "agentmail.to"
+  },
+  {
+    "company_id": "31524",
+    "name": "AgentPhone",
+    "batch": "Spring 2026",
+    "domain": "agentphone.ai"
+  },
+  {
+    "company_id": "30837",
+    "name": "AirCaps",
+    "batch": "Fall 2025",
+    "domain": "aircaps.com"
+  },
+  {
+    "company_id": "30549",
+    "name": "Airweave",
+    "batch": "Spring 2025",
+    "domain": "airweave.ai"
+  },
+  {
+    "company_id": "32621",
+    "name": "Aktoria Robotics",
+    "batch": "Summer 2026",
+    "domain": "aktoria.com"
+  },
+  {
+    "company_id": "30889",
+    "name": "Alder",
+    "batch": "Fall 2025",
+    "domain": "meetalder.com"
+  },
+  {
+    "company_id": "30100",
+    "name": "Alex",
+    "batch": "Fall 2024",
+    "domain": "alexcodes.app"
+  },
+  {
+    "company_id": "30498",
+    "name": "Alkali",
+    "batch": "Spring 2025",
+    "domain": "alkali.engineering"
+  },
+  {
+    "company_id": "33441",
+    "name": "Allia Health",
+    "batch": "Summer 2026",
+    "domain": "allia.health"
+  },
+  {
+    "company_id": "30895",
+    "name": "Allus AI",
+    "batch": "Fall 2025",
+    "domain": "allus.ai"
+  },
+  {
+    "company_id": "30430",
+    "name": "Almond",
+    "batch": "Spring 2025",
+    "domain": "almond.bot"
+  },
+  {
+    "company_id": "31497",
+    "name": "Amboras",
+    "batch": "Spring 2026",
+    "domain": "amboras.com"
+  },
+  {
+    "company_id": "30362",
+    "name": "Ambral",
+    "batch": "Summer 2025",
+    "domain": "www.ambral.com"
+  },
+  {
+    "company_id": "31411",
+    "name": "Andco",
+    "batch": "Spring 2026",
+    "domain": "www.useandco.com"
+  },
+  {
+    "company_id": "30890",
+    "name": "AnswerThis",
+    "batch": "Fall 2025",
+    "domain": "answerthis.io"
+  },
+  {
+    "company_id": "30999",
+    "name": "Antigen",
+    "batch": "Fall 2025",
+    "domain": "antigen.sh"
+  },
+  {
+    "company_id": "30130",
+    "name": "Apolink",
+    "batch": "Fall 2024",
+    "domain": "apolink.space"
+  },
+  {
+    "company_id": "31487",
+    "name": "AquaShield",
+    "batch": "Spring 2026",
+    "domain": "aquashieldai.com"
+  },
+  {
+    "company_id": "30403",
+    "name": "Aravolta",
+    "batch": "Spring 2025",
+    "domain": "www.aravolta.com"
+  },
+  {
+    "company_id": "30105",
+    "name": "ArchiLabs",
+    "batch": "Fall 2024",
+    "domain": "archilabs.ai"
+  },
+  {
+    "company_id": "30045",
+    "name": "Archil",
+    "batch": "Fall 2024",
+    "domain": "archil.com"
+  },
+  {
+    "company_id": "30307",
+    "name": "Archon",
+    "batch": "Winter 2025",
+    "domain": "archon.inc"
+  },
+  {
+    "company_id": "31475",
+    "name": "Ardent",
+    "batch": "Spring 2026",
+    "domain": "tryardent.com"
+  },
+  {
+    "company_id": "31535",
+    "name": "Arlo Industries",
+    "batch": "Spring 2026",
+    "domain": "arlo1.com"
+  },
+  {
+    "company_id": "30354",
+    "name": "Artifact",
+    "batch": "Winter 2025",
+    "domain": "www.artifact.engineer"
+  },
+  {
+    "company_id": "30298",
+    "name": "Artificial Societies",
+    "batch": "Winter 2025",
+    "domain": "societies.ai"
+  },
+  {
+    "company_id": "31528",
+    "name": "Asendia AI",
+    "batch": "Spring 2026",
+    "domain": "asendia.ai"
+  },
+  {
+    "company_id": "31465",
+    "name": "Aseon Labs",
+    "batch": "Spring 2026",
+    "domain": "www.aseonlabs.com"
+  },
+  {
+    "company_id": "30131",
+    "name": "Asha Health",
+    "batch": "Fall 2024",
+    "domain": "asha.health"
+  },
+  {
+    "company_id": "30943",
+    "name": "Aside",
+    "batch": "Fall 2025",
+    "domain": "aside.com"
+  },
+  {
+    "company_id": "31095",
+    "name": "Asimov",
+    "batch": "Winter 2026",
+    "domain": "tryasimov.ai"
+  },
+  {
+    "company_id": "30857",
+    "name": "Aspect",
+    "batch": "Fall 2025",
+    "domain": "aspect.inc"
+  },
+  {
+    "company_id": "30259",
+    "name": "Asteroid",
+    "batch": "Winter 2025",
+    "domain": "asteroid.ai"
+  },
+  {
+    "company_id": "31534",
+    "name": "Astraea",
+    "batch": "Spring 2026",
+    "domain": "tryastraea.com"
+  },
+  {
+    "company_id": "30268",
+    "name": "AthenaHQ",
+    "batch": "Winter 2025",
+    "domain": "www.athenahq.ai"
+  },
+  {
+    "company_id": "30336",
+    "name": "Atlog",
+    "batch": "Spring 2025",
+    "domain": "atlog.ai"
+  },
+  {
+    "company_id": "30449",
+    "name": "Attune",
+    "batch": "Spring 2025",
+    "domain": "attunehq.com"
+  },
+  {
+    "company_id": "30425",
+    "name": "Auctor",
+    "batch": "Spring 2025",
+    "domain": "getauctor.com"
+  },
+  {
+    "company_id": "32222",
+    "name": "Audun",
+    "batch": "Summer 2026",
+    "domain": "audun.co"
+  },
+  {
+    "company_id": "31292",
+    "name": "Aurorin CAD",
+    "batch": "Winter 2026",
+    "domain": "aurorincad.com"
+  },
+  {
+    "company_id": "31130",
+    "name": "AutoSitu",
+    "batch": "Winter 2026",
+    "domain": "autositu.com"
+  },
+  {
+    "company_id": "30591",
+    "name": "Autonomous Technologies Group",
+    "batch": "Fall 2025",
+    "domain": "becomeautonomous.com"
+  },
+  {
+    "company_id": "30408",
+    "name": "Autostep",
+    "batch": "Spring 2026",
+    "domain": "autostep.ai"
+  },
+  {
+    "company_id": "30086",
+    "name": "Autumn",
+    "batch": "Summer 2025",
+    "domain": "useautumn.com"
+  },
+  {
+    "company_id": "30415",
+    "name": "Avallon AI",
+    "batch": "Spring 2025",
+    "domain": "www.avallon.ai"
+  },
+  {
+    "company_id": "30799",
+    "name": "Avent",
+    "batch": "Summer 2025",
+    "domain": "www.aventindustrial.com"
+  },
+  {
+    "company_id": "30019",
+    "name": "Avora",
+    "batch": "Fall 2024",
+    "domain": "www.getavora.ai"
+  },
+  {
+    "company_id": "30192",
+    "name": "Axiom",
+    "batch": "Winter 2025",
+    "domain": "axiom.trade"
+  },
+  {
+    "company_id": "31236",
+    "name": "Balance",
+    "batch": "Winter 2026",
+    "domain": "getbalance.ai"
+  },
+  {
+    "company_id": "30067",
+    "name": "Beglaubigt.de",
+    "batch": "Fall 2024",
+    "domain": "beglaubigt.de"
+  },
+  {
+    "company_id": "32161",
+    "name": "Bernard",
+    "batch": "Summer 2026",
+    "domain": "bernardhq.com"
+  },
+  {
+    "company_id": "30500",
+    "name": "Besimple AI",
+    "batch": "Spring 2025",
+    "domain": "besimple.ai"
+  },
+  {
+    "company_id": "31142",
+    "name": "Beyond Reach Labs",
+    "batch": "Winter 2026",
+    "domain": "www.beyondreachlabs.com"
+  },
+  {
+    "company_id": "30177",
+    "name": "Bild AI",
+    "batch": "Winter 2025",
+    "domain": "www.bild.ai"
+  },
+  {
+    "company_id": "31477",
+    "name": "BioStack Platforms",
+    "batch": "Spring 2026",
+    "domain": "www.getbiostack.com"
+  },
+  {
+    "company_id": "30363",
+    "name": "BlindPay",
+    "batch": "Winter 2025",
+    "domain": "blindpay.com"
+  },
+  {
+    "company_id": "30412",
+    "name": "Bloom",
+    "batch": "Spring 2025",
+    "domain": "bloom.diy"
+  },
+  {
+    "company_id": "31293",
+    "name": "Bloom",
+    "batch": "Spring 2026",
+    "domain": "trybloom.ai"
+  },
+  {
+    "company_id": "32551",
+    "name": "Bloomy",
+    "batch": "Summer 2026",
+    "domain": "bloomylearning.com"
+  },
+  {
+    "company_id": "30451",
+    "name": "Bluejay",
+    "batch": "Spring 2025",
+    "domain": "getbluejay.ai"
+  },
+  {
+    "company_id": "30554",
+    "name": "Bond",
+    "batch": "Spring 2025",
+    "domain": "www.bondapp.io"
+  },
+  {
+    "company_id": "31242",
+    "name": "Booko",
+    "batch": "Winter 2026",
+    "domain": "booko.com"
+  },
+  {
+    "company_id": "30675",
+    "name": "BootLoop",
+    "batch": "Summer 2025",
+    "domain": "bootloop.ai"
+  },
+  {
+    "company_id": "30835",
+    "name": "Brickanta",
+    "batch": "Fall 2025",
+    "domain": "www.brickanta.com"
+  },
+  {
+    "company_id": "30847",
+    "name": "Brickwise",
+    "batch": "Fall 2025",
+    "domain": "www.brickwiseai.com"
+  },
+  {
+    "company_id": "30341",
+    "name": "Browser Use",
+    "batch": "Winter 2025",
+    "domain": "browser-use.com"
+  },
+  {
+    "company_id": "31285",
+    "name": "Brumby (Formerly GrazeMate)",
+    "batch": "Winter 2026",
+    "domain": "brumby"
+  },
+  {
+    "company_id": "32220",
+    "name": "COACH",
+    "batch": "Summer 2026",
+    "domain": "www.getcoach.com"
+  },
+  {
+    "company_id": "30054",
+    "name": "CTGT",
+    "batch": "Fall 2024",
+    "domain": "www.ctgt.ai"
+  },
+  {
+    "company_id": "31416",
+    "name": "Callab AI",
+    "batch": "Spring 2026",
+    "domain": "callab.ai"
+  },
+  {
+    "company_id": "30287",
+    "name": "Calltree",
+    "batch": "Winter 2025",
+    "domain": "calltree.ai"
+  },
+  {
+    "company_id": "30030",
+    "name": "Candle",
+    "batch": "Fall 2024",
+    "domain": "www.trycandle.app"
+  },
+  {
+    "company_id": "30273",
+    "name": "Candor",
+    "batch": "Winter 2025",
+    "domain": "candor.security"
+  },
+  {
+    "company_id": "30096",
+    "name": "Capy",
+    "batch": "Fall 2024",
+    "domain": "capy.ai"
+  },
+  {
+    "company_id": "31178",
+    "name": "Cardboard",
+    "batch": "Winter 2026",
+    "domain": "cardboard.ai"
+  },
+  {
+    "company_id": "31311",
+    "name": "Cardinal",
+    "batch": "Winter 2026",
+    "domain": "trycardinal.com"
+  },
+  {
+    "company_id": "30666",
+    "name": "CareSwift",
+    "batch": "Summer 2025",
+    "domain": "www.careswift.com"
+  },
+  {
+    "company_id": "30124",
+    "name": "Careforce",
+    "batch": "Fall 2024",
+    "domain": "careforce.ai"
+  },
+  {
+    "company_id": "30556",
+    "name": "Cascade Space",
+    "batch": "Spring 2025",
+    "domain": "cascadespace.com"
+  },
+  {
+    "company_id": "30477",
+    "name": "Casco",
+    "batch": "Spring 2025",
+    "domain": "casco.com"
+  },
+  {
+    "company_id": "31040",
+    "name": "CatchBack Cards",
+    "batch": "Winter 2026",
+    "domain": "catchbackcards.com"
+  },
+  {
+    "company_id": "30046",
+    "name": "Cekura",
+    "batch": "Fall 2024",
+    "domain": "www.cekura.ai"
+  },
+  {
+    "company_id": "31113",
+    "name": "CellType",
+    "batch": "Winter 2026",
+    "domain": "www.celltype.com"
+  },
+  {
+    "company_id": "30695",
+    "name": "Channel3",
+    "batch": "Summer 2025",
+    "domain": "trychannel3.com"
+  },
+  {
+    "company_id": "31513",
+    "name": "CharacterQuilt",
+    "batch": "Spring 2026",
+    "domain": "characterquilt.com"
+  },
+  {
+    "company_id": "31233",
+    "name": "Chasi",
+    "batch": "Winter 2026",
+    "domain": "chasi.ai"
+  },
+  {
+    "company_id": "30384",
+    "name": "Chestnut",
+    "batch": "Spring 2025",
+    "domain": "chestnutmortgage.com"
+  },
+  {
+    "company_id": "30429",
+    "name": "Claim Health",
+    "batch": "Spring 2025",
+    "domain": "www.claimhealth.com"
+  },
+  {
+    "company_id": "31063",
+    "name": "Clara",
+    "batch": "Spring 2026",
+    "domain": "askclara.com"
+  },
+  {
+    "company_id": "31002",
+    "name": "Clicks Health",
+    "batch": "Fall 2025",
+    "domain": "www.goclicks.ai"
+  },
+  {
+    "company_id": "30209",
+    "name": "Closure",
+    "batch": "Winter 2025",
+    "domain": "closure-intel.com"
+  },
+  {
+    "company_id": "30541",
+    "name": "Code Four",
+    "batch": "Spring 2025",
+    "domain": "codefour.us"
+  },
+  {
+    "company_id": "30091",
+    "name": "CollectWise",
+    "batch": "Fall 2024",
+    "domain": "collectwise.com"
+  },
+  {
+    "company_id": "30698",
+    "name": "Comena",
+    "batch": "Summer 2025",
+    "domain": "comena.ai"
+  },
+  {
+    "company_id": "31443",
+    "name": "Complir",
+    "batch": "Spring 2026",
+    "domain": "complir.io"
+  },
+  {
+    "company_id": "30918",
+    "name": "ComplyDo",
+    "batch": "Fall 2025",
+    "domain": "www.complydo.io"
+  },
+  {
+    "company_id": "30283",
+    "name": "Confident AI",
+    "batch": "Winter 2025",
+    "domain": "confident-ai.com"
+  },
+  {
+    "company_id": "31212",
+    "name": "Constellation Space",
+    "batch": "Winter 2026",
+    "domain": "constellation.space"
+  },
+  {
+    "company_id": "30095",
+    "name": "Consus",
+    "batch": "Fall 2024",
+    "domain": "www.consus.io"
+  },
+  {
+    "company_id": "30215",
+    "name": "Contrario",
+    "batch": "Winter 2025",
+    "domain": "contrario.ai"
+  },
+  {
+    "company_id": "30681",
+    "name": "Conviction",
+    "batch": "Summer 2025",
+    "domain": "convictiontrade.ai"
+  },
+  {
+    "company_id": "31260",
+    "name": "Copperlane",
+    "batch": "Winter 2026",
+    "domain": "www.copperlane.ai"
+  },
+  {
+    "company_id": "30338",
+    "name": "CopyCat AI",
+    "batch": "Winter 2025",
+    "domain": "runcopycat.com"
+  },
+  {
+    "company_id": "30930",
+    "name": "Cortex AI",
+    "batch": "Fall 2025",
+    "domain": "cortexrobot.ai"
+  },
+  {
+    "company_id": "33012",
+    "name": "Cosmic Robotics",
+    "batch": "Summer 2026",
+    "domain": "www.cosmicrobotics.com"
+  },
+  {
+    "company_id": "30479",
+    "name": "Crimson",
+    "batch": "Spring 2025",
+    "domain": "crimson.law"
+  },
+  {
+    "company_id": "30076",
+    "name": "Crustdata",
+    "batch": "Fall 2024",
+    "domain": "crustdata.com"
+  },
+  {
+    "company_id": "30420",
+    "name": "Cua",
+    "batch": "Spring 2025",
+    "domain": "cua.ai"
+  },
+  {
+    "company_id": "31128",
+    "name": "Cumulus Labs",
+    "batch": "Winter 2026",
+    "domain": "cumuluslabs.io"
+  },
+  {
+    "company_id": "30328",
+    "name": "Dalus",
+    "batch": "Winter 2025",
+    "domain": "dalus.io"
+  },
+  {
+    "company_id": "30928",
+    "name": "Darwin",
+    "batch": "Fall 2025",
+    "domain": "darwinrobotics.ai"
+  },
+  {
+    "company_id": "30605",
+    "name": "Dedalus Labs",
+    "batch": "Summer 2025",
+    "domain": "www.dedaluslabs.ai"
+  },
+  {
+    "company_id": "30662",
+    "name": "DeepAware AI (Robotics Center of Silicon Valley)",
+    "batch": "Summer 2025",
+    "domain": "roboticscenter.ai"
+  },
+  {
+    "company_id": "30656",
+    "name": "DeepGrove",
+    "batch": "Summer 2025",
+    "domain": "deepgrove.ai"
+  },
+  {
+    "company_id": "32206",
+    "name": "DeepReach Inc.",
+    "batch": "Summer 2026",
+    "domain": "www.deepreach.ai"
+  },
+  {
+    "company_id": "30858",
+    "name": "Deeptrace",
+    "batch": "Fall 2025",
+    "domain": "deeptrace.com"
+  },
+  {
+    "company_id": "32782",
+    "name": "Denta",
+    "batch": "Summer 2026",
+    "domain": "denta.com"
+  },
+  {
+    "company_id": "30816",
+    "name": "Digipals",
+    "batch": "Fall 2025",
+    "domain": "www.digipals.app"
+  },
+  {
+    "company_id": "30993",
+    "name": "DiligenceSquared",
+    "batch": "Fall 2025",
+    "domain": "diligencesquared.com"
+  },
+  {
+    "company_id": "31362",
+    "name": "Discovered Materials",
+    "batch": "Spring 2026",
+    "domain": "discoveredmaterials.com"
+  },
+  {
+    "company_id": "31294",
+    "name": "Dispatch",
+    "batch": "Spring 2026",
+    "domain": "dispatch.space"
+  },
+  {
+    "company_id": "31090",
+    "name": "Docura Health",
+    "batch": "Winter 2026",
+    "domain": "docurahealth.com"
+  },
+  {
+    "company_id": "31157",
+    "name": "Drafted",
+    "batch": "Spring 2026",
+    "domain": "www.drafted.ai"
+  },
+  {
+    "company_id": "31489",
+    "name": "Eden Robotics",
+    "batch": "Spring 2026",
+    "domain": "www.edenrobotics.ai"
+  },
+  {
+    "company_id": "30165",
+    "name": "Edexia",
+    "batch": "Winter 2025",
+    "domain": "www.edexia.com"
+  },
+  {
+    "company_id": "31582",
+    "name": "Edgerun",
+    "batch": "Summer 2026",
+    "domain": "edgerun.com"
+  },
+  {
+    "company_id": "33805",
+    "name": "Edviro",
+    "batch": "Summer 2026",
+    "domain": "edviroenergy.com"
+  },
+  {
+    "company_id": "30636",
+    "name": "EffiGov",
+    "batch": "Summer 2025",
+    "domain": "effigov.com"
+  },
+  {
+    "company_id": "30513",
+    "name": "Eloquent AI",
+    "batch": "Spring 2025",
+    "domain": "www.eloquentai.co"
+  },
+  {
+    "company_id": "31388",
+    "name": "Elyra",
+    "batch": "Spring 2026",
+    "domain": "www.elyrasystems.com"
+  },
+  {
+    "company_id": "30118",
+    "name": "Ember",
+    "batch": "Fall 2024",
+    "domain": "www.embercopilot.ai"
+  },
+  {
+    "company_id": "30339",
+    "name": "Ergo",
+    "batch": "Winter 2025",
+    "domain": "joinergo.com"
+  },
+  {
+    "company_id": "30970",
+    "name": "Exonic",
+    "batch": "Fall 2025",
+    "domain": "exonic.ai"
+  },
+  {
+    "company_id": "30832",
+    "name": "F2",
+    "batch": "Summer 2025",
+    "domain": "f2.ai"
+  },
+  {
+    "company_id": "31187",
+    "name": "Fenrock AI",
+    "batch": "Winter 2026",
+    "domain": "fenrock.ai"
+  },
+  {
+    "company_id": "30749",
+    "name": "Fernstone",
+    "batch": "Fall 2025",
+    "domain": "www.fernstone.com"
+  },
+  {
+    "company_id": "30569",
+    "name": "Fifth Door",
+    "batch": "Fall 2025",
+    "domain": "fifthdoor.com"
+  },
+  {
+    "company_id": "30915",
+    "name": "FinalDose",
+    "batch": "Spring 2026",
+    "domain": "finaldose.ai"
+  },
+  {
+    "company_id": "30716",
+    "name": "Finto",
+    "batch": "Summer 2025",
+    "domain": "www.gofinto.com"
+  },
+  {
+    "company_id": "30690",
+    "name": "Flai",
+    "batch": "Summer 2025",
+    "domain": "www.useflai.com"
+  },
+  {
+    "company_id": "30775",
+    "name": "Fleetline",
+    "batch": "Summer 2025",
+    "domain": "fleetline.ai"
+  },
+  {
+    "company_id": "30884",
+    "name": "Flick",
+    "batch": "Fall 2025",
+    "domain": "flick.art"
+  },
+  {
+    "company_id": "30729",
+    "name": "Floot",
+    "batch": "Summer 2025",
+    "domain": "floot.com"
+  },
+  {
+    "company_id": "32193",
+    "name": "Floracene",
+    "batch": "Summer 2026",
+    "domain": "www.floracene.com"
+  },
+  {
+    "company_id": "30182",
+    "name": "Flowtel",
+    "batch": "Winter 2025",
+    "domain": "flowtel.ai"
+  },
+  {
+    "company_id": "30305",
+    "name": "Forge Automation",
+    "batch": "Winter 2025",
+    "domain": "www.forgeautomation.ca"
+  },
+  {
+    "company_id": "31239",
+    "name": "Fort",
+    "batch": "Winter 2026",
+    "domain": "fort.cx"
+  },
+  {
+    "company_id": "30560",
+    "name": "Foundation Industries",
+    "batch": "Spring 2025",
+    "domain": "www.foundation-industries.com"
+  },
+  {
+    "company_id": "30063",
+    "name": "Freebuff",
+    "batch": "Fall 2024",
+    "domain": "freebuff.com"
+  },
+  {
+    "company_id": "30089",
+    "name": "Fresco",
+    "batch": "Fall 2024",
+    "domain": "fresco-ai.com"
+  },
+  {
+    "company_id": "30802",
+    "name": "Freya",
+    "batch": "Summer 2025",
+    "domain": "freyavoice.ai"
+  },
+  {
+    "company_id": "30688",
+    "name": "Fulcrum",
+    "batch": "Summer 2025",
+    "domain": "fulcrumresearch.ai"
+  },
+  {
+    "company_id": "30301",
+    "name": "Fuse AI",
+    "batch": "Winter 2025",
+    "domain": "fuseai.com"
+  },
+  {
+    "company_id": "30598",
+    "name": "GETASAP",
+    "batch": "Summer 2025",
+    "domain": "www.getasap.us"
+  },
+  {
+    "company_id": "30635",
+    "name": "Galactic Resource Utilization Space, Inc. (GRU Space)",
+    "batch": "Winter 2026",
+    "domain": "gru.space"
+  },
+  {
+    "company_id": "30973",
+    "name": "General Astronautics",
+    "batch": "Winter 2026",
+    "domain": "generalastro.com"
+  },
+  {
+    "company_id": "31240",
+    "name": "General Legal",
+    "batch": "Winter 2026",
+    "domain": "general.legal"
+  },
+  {
+    "company_id": "32226",
+    "name": "Glen",
+    "batch": "Summer 2026",
+    "domain": "www.tryglen.com"
+  },
+  {
+    "company_id": "30559",
+    "name": "Godela",
+    "batch": "Spring 2025",
+    "domain": "godela.ai"
+  },
+  {
+    "company_id": "31426",
+    "name": "Gojiberry AI",
+    "batch": "Spring 2026",
+    "domain": "www.gojiberry.ai"
+  },
+  {
+    "company_id": "30417",
+    "name": "GroundControl",
+    "batch": "Spring 2025",
+    "domain": "rungroundcontrol.com"
+  },
+  {
+    "company_id": "32123",
+    "name": "HERA",
+    "batch": "Summer 2026",
+    "domain": "www.manufacturingintelligence.org"
+  },
+  {
+    "company_id": "31391",
+    "name": "HEVN, inc",
+    "batch": "Spring 2026",
+    "domain": "gethevn.com"
+  },
+  {
+    "company_id": "30254",
+    "name": "HUD",
+    "batch": "Winter 2025",
+    "domain": "www.hud.ai"
+  },
+  {
+    "company_id": "30609",
+    "name": "Halluminate",
+    "batch": "Summer 2025",
+    "domain": "halluminate.ai"
+  },
+  {
+    "company_id": "30288",
+    "name": "Harper",
+    "batch": "Winter 2025",
+    "domain": "www.harperinsure.com"
+  },
+  {
+    "company_id": "30249",
+    "name": "HealthKey",
+    "batch": "Winter 2025",
+    "domain": "gethealthkey.com"
+  },
+  {
+    "company_id": "31323",
+    "name": "Hedge",
+    "batch": "Spring 2026",
+    "domain": "www.hedgespecialty.com"
+  },
+  {
+    "company_id": "30519",
+    "name": "Hemut",
+    "batch": "Spring 2025",
+    "domain": "www.hemut.com"
+  },
+  {
+    "company_id": "30758",
+    "name": "Hera",
+    "batch": "Summer 2025",
+    "domain": "hera.video"
+  },
+  {
+    "company_id": "30188",
+    "name": "Hey Telo",
+    "batch": "Winter 2025",
+    "domain": "www.heytelo.com"
+  },
+  {
+    "company_id": "31375",
+    "name": "Hub",
+    "batch": "Spring 2026",
+    "domain": "hub.xyz"
+  },
+  {
+    "company_id": "33062",
+    "name": "Hubble",
+    "batch": "Summer 2026",
+    "domain": "hubble.ai"
+  },
+  {
+    "company_id": "31205",
+    "name": "Human Archive",
+    "batch": "Winter 2026",
+    "domain": "www.humanarchive.ai"
+  },
+  {
+    "company_id": "30129",
+    "name": "HumanLayer",
+    "batch": "Fall 2024",
+    "domain": "humanlayer.com"
+  },
+  {
+    "company_id": "30646",
+    "name": "Humwork",
+    "batch": "Spring 2026",
+    "domain": "humwork.ai"
+  },
+  {
+    "company_id": "31564",
+    "name": "Huscarl",
+    "batch": "Spring 2026",
+    "domain": "www.huscarl.io"
+  },
+  {
+    "company_id": "30879",
+    "name": "Hypercubic",
+    "batch": "Fall 2025",
+    "domain": "www.hypercubic.ai"
+  },
+  {
+    "company_id": "30854",
+    "name": "Hyperspell",
+    "batch": "Fall 2025",
+    "domain": "hyperspell.com"
+  },
+  {
+    "company_id": "32188",
+    "name": "IMPACT Drones",
+    "batch": "Summer 2026",
+    "domain": "www.impact-drones.com"
+  },
+  {
+    "company_id": "30965",
+    "name": "Icarus",
+    "batch": "Fall 2025",
+    "domain": "www.icarus.one"
+  },
+  {
+    "company_id": "30938",
+    "name": "Imagine AI",
+    "batch": "Fall 2025",
+    "domain": "imagineai.me"
+  },
+  {
+    "company_id": "31076",
+    "name": "Imperfect",
+    "batch": "Spring 2026",
+    "domain": "imperfect.co"
+  },
+  {
+    "company_id": "30650",
+    "name": "Imprezia",
+    "batch": "Summer 2025",
+    "domain": "imprezia.ai"
+  },
+  {
+    "company_id": "30295",
+    "name": "Infinite",
+    "batch": "Winter 2025",
+    "domain": "infinite.net"
+  },
+  {
+    "company_id": "30097",
+    "name": "Innate",
+    "batch": "Fall 2024",
+    "domain": "innate.bot"
+  },
+  {
+    "company_id": "31547",
+    "name": "InsForge (InstaCloud)",
+    "batch": "Spring 2026",
+    "domain": "insforge.dev"
+  },
+  {
+    "company_id": "31560",
+    "name": "Intelligence Factory",
+    "batch": "Spring 2026",
+    "domain": "intelligence-factory.com"
+  },
+  {
+    "company_id": "31386",
+    "name": "Interfaze",
+    "batch": "Spring 2026",
+    "domain": "interfaze.ai"
+  },
+  {
+    "company_id": "30789",
+    "name": "Interfere",
+    "batch": "Summer 2025",
+    "domain": "interfere.com"
+  },
+  {
+    "company_id": "30685",
+    "name": "IronLedger.ai",
+    "batch": "Summer 2025",
+    "domain": "ironledger.ai"
+  },
+  {
+    "company_id": "30972",
+    "name": "Jarmin",
+    "batch": "Fall 2025",
+    "domain": "jarmin.ai"
+  },
+  {
+    "company_id": "30458",
+    "name": "Jeevy Fabrication",
+    "batch": "Spring 2025",
+    "domain": "www.jeevyfabrication.com"
+  },
+  {
+    "company_id": "31179",
+    "name": "Jinba",
+    "batch": "Winter 2026",
+    "domain": "jinba.io"
+  },
+  {
+    "company_id": "31383",
+    "name": "Juno",
+    "batch": "Spring 2026",
+    "domain": "junocompanion.com"
+  },
+  {
+    "company_id": "30769",
+    "name": "Juxta",
+    "batch": "Summer 2025",
+    "domain": "juxta.com"
+  },
+  {
+    "company_id": "30762",
+    "name": "KERNEL",
+    "batch": "Summer 2025",
+    "domain": "www.kernel.sh"
+  },
+  {
+    "company_id": "30521",
+    "name": "Kairos",
+    "batch": "Spring 2025",
+    "domain": "www.withkairos.co"
+  },
+  {
+    "company_id": "30471",
+    "name": "Kaizen",
+    "batch": "Spring 2025",
+    "domain": "kaizenautomation.com"
+  },
+  {
+    "company_id": "30677",
+    "name": "Kalinda",
+    "batch": "Summer 2025",
+    "domain": "www.kalinda.ai"
+  },
+  {
+    "company_id": "30959",
+    "name": "Kalpa Labs",
+    "batch": "Fall 2025",
+    "domain": "kalpalabs.ai"
+  },
+  {
+    "company_id": "30966",
+    "name": "Karumi",
+    "batch": "Fall 2025",
+    "domain": "www.karumi.ai"
+  },
+  {
+    "company_id": "31393",
+    "name": "KelAI",
+    "batch": "Spring 2026",
+    "domain": "kelaitech.com"
+  },
+  {
+    "company_id": "30056",
+    "name": "Keye",
+    "batch": "Fall 2024",
+    "domain": "www.keye.co"
+  },
+  {
+    "company_id": "30101",
+    "name": "Kilvin",
+    "batch": "Fall 2024",
+    "domain": "www.kilvin.ai"
+  },
+  {
+    "company_id": "31520",
+    "name": "Kinect",
+    "batch": "Spring 2026",
+    "domain": "www.trykinect.ai"
+  },
+  {
+    "company_id": "31382",
+    "name": "Kinro",
+    "batch": "Spring 2026",
+    "domain": "www.kinro.com"
+  },
+  {
+    "company_id": "31083",
+    "name": "Kita",
+    "batch": "Winter 2026",
+    "domain": "www.kita.ai"
+  },
+  {
+    "company_id": "31539",
+    "name": "Klaimee",
+    "batch": "Spring 2026",
+    "domain": "www.klaimee.ai"
+  },
+  {
+    "company_id": "31326",
+    "name": "Klarify",
+    "batch": "Spring 2026",
+    "domain": "www.klarify.ca"
+  },
+  {
+    "company_id": "30506",
+    "name": "Klavis AI",
+    "batch": "Spring 2025",
+    "domain": "www.klavis.ai"
+  },
+  {
+    "company_id": "30870",
+    "name": "Koyal",
+    "batch": "Fall 2025",
+    "domain": "koyal.ai"
+  },
+  {
+    "company_id": "31540",
+    "name": "KugelAudio",
+    "batch": "Spring 2026",
+    "domain": "kugelaudio.com"
+  },
+  {
+    "company_id": "31473",
+    "name": "Kuli",
+    "batch": "Spring 2026",
+    "domain": "kuli.one"
+  },
+  {
+    "company_id": "31424",
+    "name": "Lab0",
+    "batch": "Spring 2026",
+    "domain": "lab0.ai"
+  },
+  {
+    "company_id": "30115",
+    "name": "Laminar",
+    "batch": "Fall 2024",
+    "domain": "laminar.com"
+  },
+  {
+    "company_id": "31089",
+    "name": "Lance",
+    "batch": "Winter 2026",
+    "domain": "www.lance.live"
+  },
+  {
+    "company_id": "30615",
+    "name": "Lanesurf",
+    "batch": "Summer 2025",
+    "domain": "www.lanesurf.com"
+  },
+  {
+    "company_id": "30524",
+    "name": "Lapel",
+    "batch": "Spring 2025",
+    "domain": "lapel.com"
+  },
+  {
+    "company_id": "31173",
+    "name": "Laurence",
+    "batch": "Winter 2026",
+    "domain": "laurence.com"
+  },
+  {
+    "company_id": "30983",
+    "name": "Layers",
+    "batch": "Fall 2025",
+    "domain": "www.layers.bio"
+  },
+  {
+    "company_id": "30932",
+    "name": "Leadbay",
+    "batch": "Fall 2025",
+    "domain": "leadbay.ai"
+  },
+  {
+    "company_id": "30181",
+    "name": "Leaping AI",
+    "batch": "Winter 2025",
+    "domain": "www.leapingai.com"
+  },
+  {
+    "company_id": "29656",
+    "name": "Leeroo",
+    "batch": "Spring 2025",
+    "domain": "www.leeroo.com"
+  },
+  {
+    "company_id": "30969",
+    "name": "Lemma",
+    "batch": "Fall 2025",
+    "domain": "www.uselemma.ai"
+  },
+  {
+    "company_id": "32171",
+    "name": "LemonLime",
+    "batch": "Summer 2026",
+    "domain": "www.lemonlime.com"
+  },
+  {
+    "company_id": "30920",
+    "name": "Lexi",
+    "batch": "Fall 2025",
+    "domain": "getlexi.io"
+  },
+  {
+    "company_id": "31360",
+    "name": "LightSprint",
+    "batch": "Spring 2026",
+    "domain": "lightsprint.ai"
+  },
+  {
+    "company_id": "30987",
+    "name": "Lightberry",
+    "batch": "Fall 2025",
+    "domain": "lightberry.com"
+  },
+  {
+    "company_id": "31377",
+    "name": "Limrun",
+    "batch": "Spring 2026",
+    "domain": "lim.run"
+  },
+  {
+    "company_id": "30060",
+    "name": "Lingo.dev",
+    "batch": "Fall 2024",
+    "domain": "lingo.dev"
+  },
+  {
+    "company_id": "30269",
+    "name": "Liquid Compute",
+    "batch": "Winter 2025",
+    "domain": "www.liquidcompute.com"
+  },
+  {
+    "company_id": "30754",
+    "name": "Locata",
+    "batch": "Summer 2025",
+    "domain": "www.locatahealth.com"
+  },
+  {
+    "company_id": "33283",
+    "name": "Locke",
+    "batch": "Summer 2026",
+    "domain": "locke.inc"
+  },
+  {
+    "company_id": "30127",
+    "name": "Loombotic",
+    "batch": "Fall 2024",
+    "domain": "www.loombotic.com"
+  },
+  {
+    "company_id": "32848",
+    "name": "Luca IQ",
+    "batch": "Summer 2026",
+    "domain": "lucaiq.com"
+  },
+  {
+    "company_id": "30261",
+    "name": "Lucid",
+    "batch": "Winter 2025",
+    "domain": "lucid.ai"
+  },
+  {
+    "company_id": "30272",
+    "name": "Lucidic AI",
+    "batch": "Winter 2025",
+    "domain": "lucidic.ai"
+  },
+  {
+    "company_id": "30482",
+    "name": "Lucis",
+    "batch": "Spring 2025",
+    "domain": "www.lucis.life"
+  },
+  {
+    "company_id": "30540",
+    "name": "Lumari",
+    "batch": "Spring 2025",
+    "domain": "www.lumari.ai"
+  },
+  {
+    "company_id": "30804",
+    "name": "Luminal",
+    "batch": "Summer 2025",
+    "domain": "luminal.com"
+  },
+  {
+    "company_id": "31435",
+    "name": "Lumius",
+    "batch": "Spring 2026",
+    "domain": "www.lumius-imaging.com"
+  },
+  {
+    "company_id": "30057",
+    "name": "Luthor",
+    "batch": "Fall 2024",
+    "domain": "luthor.ai"
+  },
+  {
+    "company_id": "26144",
+    "name": "MSPilot",
+    "batch": "Fall 2025",
+    "domain": "mspilot.io"
+  },
+  {
+    "company_id": "30260",
+    "name": "Macadamia",
+    "batch": "Winter 2025",
+    "domain": "macadamialabs.com"
+  },
+  {
+    "company_id": "30975",
+    "name": "MadeThis",
+    "batch": "Fall 2025",
+    "domain": "madethis.com"
+  },
+  {
+    "company_id": "30776",
+    "name": "Magnetic",
+    "batch": "Summer 2025",
+    "domain": "www.magnetictax.com"
+  },
+  {
+    "company_id": "30608",
+    "name": "MangoDesk",
+    "batch": "Summer 2025",
+    "domain": "www.mangodesk.com"
+  },
+  {
+    "company_id": "31531",
+    "name": "Manicule",
+    "batch": "Spring 2026",
+    "domain": "manicule.com"
+  },
+  {
+    "company_id": "30710",
+    "name": "Manufact",
+    "batch": "Summer 2025",
+    "domain": "manufact.com"
+  },
+  {
+    "company_id": "32223",
+    "name": "Marble",
+    "batch": "Summer 2026",
+    "domain": "joinmarble.ai"
+  },
+  {
+    "company_id": "30224",
+    "name": "Maritime Fusion",
+    "batch": "Winter 2025",
+    "domain": "maritimefusion.com"
+  },
+  {
+    "company_id": "30304",
+    "name": "Mastra",
+    "batch": "Winter 2025",
+    "domain": "mastra.ai"
+  },
+  {
+    "company_id": "31188",
+    "name": "Maywood",
+    "batch": "Winter 2026",
+    "domain": "maywoodai.com"
+  },
+  {
+    "company_id": "30445",
+    "name": "Mbodi AI",
+    "batch": "Spring 2025",
+    "domain": "www.mbodi.ai"
+  },
+  {
+    "company_id": "30365",
+    "name": "Mentra",
+    "batch": "Winter 2025",
+    "domain": "mentra.glass"
+  },
+  {
+    "company_id": "30346",
+    "name": "Mercura",
+    "batch": "Winter 2025",
+    "domain": "www.mercura.ai"
+  },
+  {
+    "company_id": "30292",
+    "name": "Mesh",
+    "batch": "Winter 2025",
+    "domain": "www.usemesh.com"
+  },
+  {
+    "company_id": "30523",
+    "name": "Mesmer",
+    "batch": "Spring 2025",
+    "domain": "mesmer.co"
+  },
+  {
+    "company_id": "30740",
+    "name": "Metis",
+    "batch": "Summer 2025",
+    "domain": "withmetis.ai"
+  },
+  {
+    "company_id": "30960",
+    "name": "Metorial",
+    "batch": "Fall 2025",
+    "domain": "metorial.com"
+  },
+  {
+    "company_id": "30527",
+    "name": "MindFort",
+    "batch": "Spring 2025",
+    "domain": "mindfort.ai"
+  },
+  {
+    "company_id": "31453",
+    "name": "Minicor",
+    "batch": "Spring 2026",
+    "domain": "minicor.com"
+  },
+  {
+    "company_id": "30723",
+    "name": "Miso Labs",
+    "batch": "Spring 2026",
+    "domain": "misolabs.ai"
+  },
+  {
+    "company_id": "30302",
+    "name": "Misprint",
+    "batch": "Winter 2025",
+    "domain": "www.misprint.com"
+  },
+  {
+    "company_id": "31269",
+    "name": "MochaCare",
+    "batch": "Winter 2026",
+    "domain": "www.mochacare.com"
+  },
+  {
+    "company_id": "32521",
+    "name": "Molagri",
+    "batch": "Summer 2026",
+    "domain": "molagri.com"
+  },
+  {
+    "company_id": "30029",
+    "name": "Moonset Health",
+    "batch": "Fall 2024",
+    "domain": "www.moonsethealth.com"
+  },
+  {
+    "company_id": "31146",
+    "name": "Moritz",
+    "batch": "Winter 2026",
+    "domain": "moritzlegal.com"
+  },
+  {
+    "company_id": "30512",
+    "name": "MorphoAI",
+    "batch": "Spring 2025",
+    "domain": "morpho.ai"
+  },
+  {
+    "company_id": "30244",
+    "name": "Mosaic",
+    "batch": "Winter 2025",
+    "domain": "mosaic.so"
+  },
+  {
+    "company_id": "31008",
+    "name": "Moss",
+    "batch": "Fall 2025",
+    "domain": "moss.dev"
+  },
+  {
+    "company_id": "32752",
+    "name": "Moving Atoms",
+    "batch": "Summer 2026",
+    "domain": "movingatoms.ai"
+  },
+  {
+    "company_id": "31343",
+    "name": "Multiplier",
+    "batch": "Spring 2026",
+    "domain": "multiplier.ai"
+  },
+  {
+    "company_id": "30795",
+    "name": "NOSO LABS",
+    "batch": "Summer 2025",
+    "domain": "noso.so"
+  },
+  {
+    "company_id": "30733",
+    "name": "Nautilus",
+    "batch": "Summer 2025",
+    "domain": "nautilus.co"
+  },
+  {
+    "company_id": "30522",
+    "name": "Naïve",
+    "batch": "Spring 2025",
+    "domain": "usenaive.ai"
+  },
+  {
+    "company_id": "31019",
+    "name": "Ndea",
+    "batch": "Winter 2026",
+    "domain": "ndea.com"
+  },
+  {
+    "company_id": "30880",
+    "name": "Nessie",
+    "batch": "Fall 2025",
+    "domain": "nessielabs.com"
+  },
+  {
+    "company_id": "32716",
+    "name": "Neuromorphic",
+    "batch": "Summer 2026",
+    "domain": "www.neuromorphic.vision"
+  },
+  {
+    "company_id": "31366",
+    "name": "Nine Fives",
+    "batch": "Spring 2026",
+    "domain": "ninefives.com"
+  },
+  {
+    "company_id": "30286",
+    "name": "Nitrode",
+    "batch": "Winter 2025",
+    "domain": "www.nitrode.com"
+  },
+  {
+    "company_id": "30494",
+    "name": "Nixo",
+    "batch": "Summer 2025",
+    "domain": "withnixo.com"
+  },
+  {
+    "company_id": "30709",
+    "name": "Novaflow",
+    "batch": "Summer 2025",
+    "domain": "www.novaflow.ai"
+  },
+  {
+    "company_id": "30491",
+    "name": "Novoflow",
+    "batch": "Spring 2025",
+    "domain": "www.novoflow.io"
+  },
+  {
+    "company_id": "30818",
+    "name": "Nox Metals",
+    "batch": "Summer 2025",
+    "domain": "noxmetals.co"
+  },
+  {
+    "company_id": "30700",
+    "name": "Nozomio",
+    "batch": "Summer 2025",
+    "domain": "www.nozomio.com"
+  },
+  {
+    "company_id": "30728",
+    "name": "OS3",
+    "batch": "Summer 2026",
+    "domain": "os3robotics.com"
+  },
+  {
+    "company_id": "30652",
+    "name": "OnDeck AI",
+    "batch": "Summer 2025",
+    "domain": "www.ondeckai.com"
+  },
+  {
+    "company_id": "31081",
+    "name": "One Robot",
+    "batch": "Winter 2026",
+    "domain": "www.onerobot.io"
+  },
+  {
+    "company_id": "29999",
+    "name": "Onlook",
+    "batch": "Winter 2025",
+    "domain": "onlook.com"
+  },
+  {
+    "company_id": "32554",
+    "name": "Ooak Data",
+    "batch": "Summer 2026",
+    "domain": "ooakdata.com"
+  },
+  {
+    "company_id": "31163",
+    "name": "Opalite Health",
+    "batch": "Winter 2026",
+    "domain": "opalitehealth.com"
+  },
+  {
+    "company_id": "33249",
+    "name": "OpenRelay",
+    "batch": "Summer 2026",
+    "domain": "www.openrelay.inc"
+  },
+  {
+    "company_id": "31505",
+    "name": "OpenWork",
+    "batch": "Spring 2026",
+    "domain": "openworklabs.com"
+  },
+  {
+    "company_id": "30033",
+    "name": "Openbenchmarks",
+    "batch": "Fall 2024",
+    "domain": "openbenchmarks.com"
+  },
+  {
+    "company_id": "33013",
+    "name": "Operon",
+    "batch": "Summer 2026",
+    "domain": "operonsolutions.com"
+  },
+  {
+    "company_id": "30315",
+    "name": "Optifye.ai",
+    "batch": "Winter 2025",
+    "domain": "www.optifye.ai"
+  },
+  {
+    "company_id": "30467",
+    "name": "Opusense AI",
+    "batch": "Spring 2025",
+    "domain": "www.opusense.com"
+  },
+  {
+    "company_id": "30642",
+    "name": "Orange Slice",
+    "batch": "Summer 2025",
+    "domain": "orangeslice.ai"
+  },
+  {
+    "company_id": "30293",
+    "name": "Orbital Operations",
+    "batch": "Winter 2025",
+    "domain": "www.orbitalops.tech"
+  },
+  {
+    "company_id": "30518",
+    "name": "Orchid",
+    "batch": "Spring 2025",
+    "domain": "orchid.ai"
+  },
+  {
+    "company_id": "31064",
+    "name": "Origin",
+    "batch": "Winter 2026",
+    "domain": "origin.bio"
+  },
+  {
+    "company_id": "30247",
+    "name": "Osmosis",
+    "batch": "Winter 2025",
+    "domain": "osmosis.ai"
+  },
+  {
+    "company_id": "30927",
+    "name": "Oxus",
+    "batch": "Winter 2026",
+    "domain": "oxus-ai.com"
+  },
+  {
+    "company_id": "30256",
+    "name": "PAX Markets",
+    "batch": "Winter 2025",
+    "domain": "pax.markets"
+  },
+  {
+    "company_id": "33278",
+    "name": "PRINCEPS",
+    "batch": "Summer 2026",
+    "domain": "princeps.dev"
+  },
+  {
+    "company_id": "30755",
+    "name": "Pally",
+    "batch": "Summer 2025",
+    "domain": "pally.com"
+  },
+  {
+    "company_id": "30645",
+    "name": "Panels",
+    "batch": "Summer 2025",
+    "domain": "www.usepanels.com"
+  },
+  {
+    "company_id": "31989",
+    "name": "Pango",
+    "batch": "Summer 2026",
+    "domain": "pango.ai"
+  },
+  {
+    "company_id": "30665",
+    "name": "Pangolin",
+    "batch": "Summer 2025",
+    "domain": "pangolin.net"
+  },
+  {
+    "company_id": "30231",
+    "name": "Paragon",
+    "batch": "Winter 2025",
+    "domain": "www.runparagon.com"
+  },
+  {
+    "company_id": "31174",
+    "name": "Parameter",
+    "batch": "Winter 2026",
+    "domain": "parameter.ai"
+  },
+  {
+    "company_id": "30604",
+    "name": "Parametric",
+    "batch": "Fall 2025",
+    "domain": "parametric.company"
+  },
+  {
+    "company_id": "32134",
+    "name": "Parasma",
+    "batch": "Summer 2026",
+    "domain": "parasma.com"
+  },
+  {
+    "company_id": "30453",
+    "name": "Parsewise",
+    "batch": "Spring 2025",
+    "domain": "parsewise.ai"
+  },
+  {
+    "company_id": "30191",
+    "name": "Partcl",
+    "batch": "Spring 2025",
+    "domain": "partcl.com"
+  },
+  {
+    "company_id": "31183",
+    "name": "Patientdesk.ai",
+    "batch": "Winter 2026",
+    "domain": "patientdesk.ai"
+  },
+  {
+    "company_id": "31175",
+    "name": "Pax Historia",
+    "batch": "Winter 2026",
+    "domain": "www.paxhistoria.co"
+  },
+  {
+    "company_id": "31066",
+    "name": "Payna",
+    "batch": "Winter 2026",
+    "domain": "payna.com"
+  },
+  {
+    "company_id": "30533",
+    "name": "Pelica",
+    "batch": "Spring 2025",
+    "domain": "www.pelica.com"
+  },
+  {
+    "company_id": "33048",
+    "name": "Pennant",
+    "batch": "Summer 2026",
+    "domain": "www.getpennant.ai"
+  },
+  {
+    "company_id": "30296",
+    "name": "Peppr AI",
+    "batch": "Winter 2025",
+    "domain": "www.usepeppr.ai"
+  },
+  {
+    "company_id": "31333",
+    "name": "PerfectBit, Inc.",
+    "batch": "Spring 2026",
+    "domain": "perfectbit.ai"
+  },
+  {
+    "company_id": "30088",
+    "name": "PermitPortal",
+    "batch": "Fall 2024",
+    "domain": "permitportalapp.com"
+  },
+  {
+    "company_id": "30708",
+    "name": "Perseus Defense",
+    "batch": "Summer 2025",
+    "domain": "perseusdefense.com"
+  },
+  {
+    "company_id": "33310",
+    "name": "Petrarch",
+    "batch": "Summer 2026",
+    "domain": "petrarch.co"
+  },
+  {
+    "company_id": "30448",
+    "name": "PgDog",
+    "batch": "Spring 2025",
+    "domain": "pgdog.dev"
+  },
+  {
+    "company_id": "30465",
+    "name": "Photonium",
+    "batch": "Spring 2025",
+    "domain": "www.photoniumoptics.com"
+  },
+  {
+    "company_id": "31114",
+    "name": "Piris Labs",
+    "batch": "Winter 2026",
+    "domain": "pirislabs.io"
+  },
+  {
+    "company_id": "31493",
+    "name": "Plena Health",
+    "batch": "Spring 2026",
+    "domain": "www.plena.health"
+  },
+  {
+    "company_id": "30400",
+    "name": "Plexe",
+    "batch": "Spring 2025",
+    "domain": "plexe.ai"
+  },
+  {
+    "company_id": "31041",
+    "name": "Ploy",
+    "batch": "Spring 2026",
+    "domain": "ploy.ai"
+  },
+  {
+    "company_id": "31214",
+    "name": "Pocket",
+    "batch": "Winter 2026",
+    "domain": "heypocket.com"
+  },
+  {
+    "company_id": "31217",
+    "name": "Polymath",
+    "batch": "Winter 2026",
+    "domain": "polymathlabs.ai"
+  },
+  {
+    "company_id": "31086",
+    "name": "Prescience, Inc.",
+    "batch": "Summer 2026",
+    "domain": "www.getprescience.com"
+  },
+  {
+    "company_id": "30719",
+    "name": "ProcIndex",
+    "batch": "Summer 2025",
+    "domain": "procindex.com"
+  },
+  {
+    "company_id": "30320",
+    "name": "Proception Inc",
+    "batch": "Winter 2025",
+    "domain": "proception.ai"
+  },
+  {
+    "company_id": "30659",
+    "name": "Proliferate",
+    "batch": "Summer 2025",
+    "domain": "proliferate.com"
+  },
+  {
+    "company_id": "30207",
+    "name": "Promptless",
+    "batch": "Winter 2025",
+    "domain": "promptless.ai"
+  },
+  {
+    "company_id": "33017",
+    "name": "ProvenMetal",
+    "batch": "Summer 2026",
+    "domain": "provenmetal.com"
+  },
+  {
+    "company_id": "30592",
+    "name": "Prox",
+    "batch": "Fall 2025",
+    "domain": "useprox.com"
+  },
+  {
+    "company_id": "31169",
+    "name": "Proximitty",
+    "batch": "Winter 2026",
+    "domain": "proximitty.ai"
+  },
+  {
+    "company_id": "30367",
+    "name": "QFEX",
+    "batch": "Spring 2025",
+    "domain": "qfex.com"
+  },
+  {
+    "company_id": "30496",
+    "name": "QualGent",
+    "batch": "Spring 2025",
+    "domain": "www.qualgent.ai"
+  },
+  {
+    "company_id": "31494",
+    "name": "RASPIRE",
+    "batch": "Spring 2026",
+    "domain": "raspire.com"
+  },
+  {
+    "company_id": "30426",
+    "name": "Ralo",
+    "batch": "Spring 2025",
+    "domain": "www.ralo.com"
+  },
+  {
+    "company_id": "31145",
+    "name": "RamAIn",
+    "batch": "Winter 2026",
+    "domain": "ramain.ai"
+  },
+  {
+    "company_id": "31161",
+    "name": "Rapidfolio",
+    "batch": "Summer 2026",
+    "domain": "rapidfolio.com"
+  },
+  {
+    "company_id": "32622",
+    "name": "Rational",
+    "batch": "Summer 2026",
+    "domain": "rational.to"
+  },
+  {
+    "company_id": "30039",
+    "name": "Raycaster",
+    "batch": "Fall 2024",
+    "domain": "eval.raycaster.ai"
+  },
+  {
+    "company_id": "30761",
+    "name": "Reacher",
+    "batch": "Summer 2025",
+    "domain": "reacherapp.com"
+  },
+  {
+    "company_id": "31458",
+    "name": "Reason Machines",
+    "batch": "Spring 2026",
+    "domain": "reasonmachines.com"
+  },
+  {
+    "company_id": "30324",
+    "name": "Rebolt",
+    "batch": "Winter 2025",
+    "domain": "rebolt.ai"
+  },
+  {
+    "company_id": "30912",
+    "name": "Redapto",
+    "batch": "Fall 2025",
+    "domain": "www.redapto.com"
+  },
+  {
+    "company_id": "30316",
+    "name": "Reditus Space",
+    "batch": "Winter 2025",
+    "domain": "www.reditus.space"
+  },
+  {
+    "company_id": "30454",
+    "name": "Refresh",
+    "batch": "Spring 2025",
+    "domain": "www.refresh.dev"
+  },
+  {
+    "company_id": "31279",
+    "name": "Regbase",
+    "batch": "Spring 2026",
+    "domain": "regbase.com"
+  },
+  {
+    "company_id": "30712",
+    "name": "Relling",
+    "batch": "Summer 2025",
+    "domain": "relling.co"
+  },
+  {
+    "company_id": "31345",
+    "name": "Replicas",
+    "batch": "Spring 2026",
+    "domain": "replicas.dev"
+  },
+  {
+    "company_id": "31200",
+    "name": "Ressl AI",
+    "batch": "Winter 2026",
+    "domain": "ressl.ai"
+  },
+  {
+    "company_id": "31189",
+    "name": "Revion",
+    "batch": "Winter 2026",
+    "domain": "revion.inc"
+  },
+  {
+    "company_id": "30174",
+    "name": "Revise Robotics",
+    "batch": "Winter 2025",
+    "domain": "www.reviserobotics.com"
+  },
+  {
+    "company_id": "31527",
+    "name": "Revnu",
+    "batch": "Spring 2026",
+    "domain": "revnu.com"
+  },
+  {
+    "company_id": "30041",
+    "name": "Revyl",
+    "batch": "Fall 2024",
+    "domain": "www.revyl.com"
+  },
+  {
+    "company_id": "32155",
+    "name": "Rex",
+    "batch": "Summer 2026",
+    "domain": "www.rex.inc"
+  },
+  {
+    "company_id": "31176",
+    "name": "Rhizome AI",
+    "batch": "Winter 2026",
+    "domain": "rhizomeai.com"
+  },
+  {
+    "company_id": "30530",
+    "name": "Rimba",
+    "batch": "Spring 2025",
+    "domain": "rimba.ai"
+  },
+  {
+    "company_id": "30724",
+    "name": "Risely AI",
+    "batch": "Summer 2025",
+    "domain": "www.risely.ai"
+  },
+  {
+    "company_id": "30325",
+    "name": "Roark",
+    "batch": "Winter 2025",
+    "domain": "roark.ai"
+  },
+  {
+    "company_id": "31201",
+    "name": "Robby",
+    "batch": "Winter 2026",
+    "domain": "tryrobby.com"
+  },
+  {
+    "company_id": "30977",
+    "name": "Rovi Health",
+    "batch": "Fall 2025",
+    "domain": "www.rovi.health"
+  },
+  {
+    "company_id": "31346",
+    "name": "Rudus",
+    "batch": "Spring 2026",
+    "domain": "rudus.ai"
+  },
+  {
+    "company_id": "30036",
+    "name": "Rulebase",
+    "batch": "Fall 2024",
+    "domain": "rulebase.co"
+  },
+  {
+    "company_id": "31085",
+    "name": "Ruma Care",
+    "batch": "Winter 2026",
+    "domain": "rumacare.com"
+  },
+  {
+    "company_id": "31088",
+    "name": "RunAnywhere",
+    "batch": "Winter 2026",
+    "domain": "www.runanywhere.ai"
+  },
+  {
+    "company_id": "31518",
+    "name": "Runtime",
+    "batch": "Spring 2026",
+    "domain": "www.runtm.com"
+  },
+  {
+    "company_id": "30114",
+    "name": "Ryvn",
+    "batch": "Fall 2024",
+    "domain": "ryvn.ai"
+  },
+  {
+    "company_id": "30348",
+    "name": "SAMMY Labs",
+    "batch": "Winter 2025",
+    "domain": "www.sammylabs.com"
+  },
+  {
+    "company_id": "30891",
+    "name": "SF Tensor",
+    "batch": "Fall 2025",
+    "domain": "sf-tensor.com"
+  },
+  {
+    "company_id": "30230",
+    "name": "SalesPatriot",
+    "batch": "Winter 2025",
+    "domain": "www.salespatriot.com"
+  },
+  {
+    "company_id": "31147",
+    "name": "Salus",
+    "batch": "Winter 2026",
+    "domain": "www.usesalus.ai"
+  },
+  {
+    "company_id": "30964",
+    "name": "Sava",
+    "batch": "Fall 2025",
+    "domain": "www.savahq.com"
+  },
+  {
+    "company_id": "31211",
+    "name": "Sazabi",
+    "batch": "Spring 2026",
+    "domain": "www.sazabi.com"
+  },
+  {
+    "company_id": "30514",
+    "name": "Scalar Field",
+    "batch": "Spring 2025",
+    "domain": "www.scalarfield.io"
+  },
+  {
+    "company_id": "30942",
+    "name": "Scott AI",
+    "batch": "Fall 2025",
+    "domain": "tryscott.ai"
+  },
+  {
+    "company_id": "30205",
+    "name": "Scout",
+    "batch": "Winter 2025",
+    "domain": "scoutforschools.com"
+  },
+  {
+    "company_id": "31180",
+    "name": "Seeing Systems",
+    "batch": "Winter 2026",
+    "domain": "www.seeing-systems.com"
+  },
+  {
+    "company_id": "30885",
+    "name": "Semble",
+    "batch": "Fall 2025",
+    "domain": "www.sembleai.com"
+  },
+  {
+    "company_id": "31224",
+    "name": "Servo7",
+    "batch": "Winter 2026",
+    "domain": "servo7.com"
+  },
+  {
+    "company_id": "30440",
+    "name": "Sim",
+    "batch": "Spring 2025",
+    "domain": "sim.ai"
+  },
+  {
+    "company_id": "30742",
+    "name": "Sira",
+    "batch": "Summer 2025",
+    "domain": "sira.team"
+  },
+  {
+    "company_id": "31203",
+    "name": "Sitefire",
+    "batch": "Winter 2026",
+    "domain": "sitefire.ai"
+  },
+  {
+    "company_id": "30464",
+    "name": "Sixtyfour",
+    "batch": "Spring 2025",
+    "domain": "www.sixtyfour.ai"
+  },
+  {
+    "company_id": "30050",
+    "name": "Smooth",
+    "batch": "Fall 2024",
+    "domain": "smooth.sh"
+  },
+  {
+    "company_id": "30726",
+    "name": "Socratix AI",
+    "batch": "Summer 2025",
+    "domain": "getsocratix.ai"
+  },
+  {
+    "company_id": "30275",
+    "name": "Solidroad",
+    "batch": "Winter 2025",
+    "domain": "solidroad.com"
+  },
+  {
+    "company_id": "30706",
+    "name": "Solva",
+    "batch": "Summer 2025",
+    "domain": "solvatechnology.com"
+  },
+  {
+    "company_id": "30867",
+    "name": "Soren",
+    "batch": "Fall 2025",
+    "domain": "usesoren.com"
+  },
+  {
+    "company_id": "31464",
+    "name": "Soria",
+    "batch": "Spring 2026",
+    "domain": "www.soriaanalytics.com"
+  },
+  {
+    "company_id": "30946",
+    "name": "Sourcebot",
+    "batch": "Fall 2025",
+    "domain": "www.sourcebot.dev"
+  },
+  {
+    "company_id": "31151",
+    "name": "Sparkles",
+    "batch": "Winter 2026",
+    "domain": "sparkles.dev"
+  },
+  {
+    "company_id": "30059",
+    "name": "Sphinx",
+    "batch": "Fall 2024",
+    "domain": "sphinxhq.com"
+  },
+  {
+    "company_id": "30194",
+    "name": "Splash Inc.",
+    "batch": "Winter 2025",
+    "domain": "splash9.com"
+  },
+  {
+    "company_id": "30322",
+    "name": "Spott",
+    "batch": "Winter 2025",
+    "domain": "spott.io"
+  },
+  {
+    "company_id": "31402",
+    "name": "Standout",
+    "batch": "Spring 2026",
+    "domain": "standout.work"
+  },
+  {
+    "company_id": "30190",
+    "name": "Steinmetz",
+    "batch": "Winter 2025",
+    "domain": "steinmetzmotors.com"
+  },
+  {
+    "company_id": "31167",
+    "name": "Stilta",
+    "batch": "Winter 2026",
+    "domain": "stilta.com"
+  },
+  {
+    "company_id": "30023",
+    "name": "Streamable",
+    "batch": "Fall 2024",
+    "domain": "streamable.run"
+  },
+  {
+    "company_id": "30845",
+    "name": "Structured AI",
+    "batch": "Fall 2025",
+    "domain": "www.getstructured.ai"
+  },
+  {
+    "company_id": "30189",
+    "name": "SubImage",
+    "batch": "Winter 2025",
+    "domain": "subimage.io"
+  },
+  {
+    "company_id": "31222",
+    "name": "Superset",
+    "batch": "Spring 2026",
+    "domain": "www.superset.sh"
+  },
+  {
+    "company_id": "30508",
+    "name": "Sygaldry Technologies",
+    "batch": "Spring 2025",
+    "domain": "www.sygaldry.com"
+  },
+  {
+    "company_id": "32168",
+    "name": "Synapse Semiconductor",
+    "batch": "Summer 2026",
+    "domain": "synapsesemi.org"
+  },
+  {
+    "company_id": "30520",
+    "name": "Synthetic Society",
+    "batch": "Summer 2025",
+    "domain": "syntheticsociety.ai"
+  },
+  {
+    "company_id": "30421",
+    "name": "Synthio Labs",
+    "batch": "Spring 2025",
+    "domain": "synthiolabs.com"
+  },
+  {
+    "company_id": "31418",
+    "name": "Taiga",
+    "batch": "Spring 2026",
+    "domain": "taigabilling.com"
+  },
+  {
+    "company_id": "31470",
+    "name": "Tasklet",
+    "batch": "Spring 2026",
+    "domain": "tasklet.ai"
+  },
+  {
+    "company_id": "31158",
+    "name": "Terranox AI",
+    "batch": "Winter 2026",
+    "domain": "terranox.ai"
+  },
+  {
+    "company_id": "30663",
+    "name": "Tesora",
+    "batch": "Summer 2025",
+    "domain": "tesora.ai"
+  },
+  {
+    "company_id": "30547",
+    "name": "Text.ai",
+    "batch": "Spring 2025",
+    "domain": "www.text.ai"
+  },
+  {
+    "company_id": "30607",
+    "name": "The Prompting Company",
+    "batch": "Summer 2025",
+    "domain": "www.promptingcompany.com"
+  },
+  {
+    "company_id": "31250",
+    "name": "The Token Company",
+    "batch": "Winter 2026",
+    "domain": "thetokencompany.com"
+  },
+  {
+    "company_id": "30548",
+    "name": "Theorem",
+    "batch": "Spring 2025",
+    "domain": "theorem.dev"
+  },
+  {
+    "company_id": "30504",
+    "name": "Third Chair",
+    "batch": "Spring 2025",
+    "domain": "usethirdchair.com"
+  },
+  {
+    "company_id": "30351",
+    "name": "Thirdlayer",
+    "batch": "Winter 2025",
+    "domain": "thirdlayer.inc"
+  },
+  {
+    "company_id": "30218",
+    "name": "Toothy AI",
+    "batch": "Winter 2025",
+    "domain": "www.toothy.ai"
+  },
+  {
+    "company_id": "31858",
+    "name": "Torus",
+    "batch": "Summer 2026",
+    "domain": "www.usetorus.com"
+  },
+  {
+    "company_id": "31344",
+    "name": "Totalis",
+    "batch": "Spring 2026",
+    "domain": "www.totalis.trade"
+  },
+  {
+    "company_id": "30610",
+    "name": "TraceRoot.AI",
+    "batch": "Summer 2025",
+    "domain": "traceroot.ai"
+  },
+  {
+    "company_id": "30274",
+    "name": "Trata",
+    "batch": "Winter 2025",
+    "domain": "www.trytrata.com"
+  },
+  {
+    "company_id": "31191",
+    "name": "Traverse",
+    "batch": "Winter 2026",
+    "domain": "www.traverse.so"
+  },
+  {
+    "company_id": "30877",
+    "name": "Trelium",
+    "batch": "Fall 2025",
+    "domain": "www.trelium.com"
+  },
+  {
+    "company_id": "31372",
+    "name": "Trellis",
+    "batch": "Spring 2026",
+    "domain": "trellistech.com"
+  },
+  {
+    "company_id": "32815",
+    "name": "TryNearby",
+    "batch": "Summer 2026",
+    "domain": "trynearby.com"
+  },
+  {
+    "company_id": "31259",
+    "name": "Tsenta",
+    "batch": "Summer 2026",
+    "domain": "tsenta.com"
+  },
+  {
+    "company_id": "31526",
+    "name": "Uno Wallet",
+    "batch": "Spring 2026",
+    "domain": "myunowallet.com"
+  },
+  {
+    "company_id": "30894",
+    "name": "Unsiloed AI",
+    "batch": "Fall 2025",
+    "domain": "www.unsiloed.ai"
+  },
+  {
+    "company_id": "30066",
+    "name": "Unusual",
+    "batch": "Fall 2024",
+    "domain": "unusual.ai"
+  },
+  {
+    "company_id": "30844",
+    "name": "Uplane",
+    "batch": "Fall 2025",
+    "domain": "uplane.com"
+  },
+  {
+    "company_id": "30806",
+    "name": "Uplift AI",
+    "batch": "Summer 2025",
+    "domain": "upliftai.org"
+  },
+  {
+    "company_id": "31271",
+    "name": "VOYGR",
+    "batch": "Winter 2026",
+    "domain": "voygr.tech"
+  },
+  {
+    "company_id": "29577",
+    "name": "Variant",
+    "batch": "Fall 2024",
+    "domain": "variant.com"
+  },
+  {
+    "company_id": "31000",
+    "name": "Vector Legal",
+    "batch": "Winter 2026",
+    "domain": "vectorlegal.com"
+  },
+  {
+    "company_id": "31264",
+    "name": "Vela",
+    "batch": "Winter 2026",
+    "domain": "tryvela.ai"
+  },
+  {
+    "company_id": "31156",
+    "name": "Ventura",
+    "batch": "Winter 2026",
+    "domain": "www.ventura.ai"
+  },
+  {
+    "company_id": "30797",
+    "name": "Veritus",
+    "batch": "Summer 2025",
+    "domain": "www.veritus.com"
+  },
+  {
+    "company_id": "30624",
+    "name": "Verne Robotics",
+    "batch": "Summer 2025",
+    "domain": "vernerobotics.com"
+  },
+  {
+    "company_id": "33319",
+    "name": "Vernius Systems, Inc.",
+    "batch": "Summer 2026",
+    "domain": "www.vernius.systems"
+  },
+  {
+    "company_id": "30503",
+    "name": "Vesence",
+    "batch": "Spring 2025",
+    "domain": "vesence.com"
+  },
+  {
+    "company_id": "31182",
+    "name": "Visibl Semiconductors",
+    "batch": "Winter 2026",
+    "domain": "visiblsemi.com"
+  },
+  {
+    "company_id": "30460",
+    "name": "VoiceOS",
+    "batch": "Spring 2025",
+    "domain": "voiceos.com"
+  },
+  {
+    "company_id": "31003",
+    "name": "Voltair",
+    "batch": "Winter 2026",
+    "domain": "voltairlabs.com"
+  },
+  {
+    "company_id": "30794",
+    "name": "Vulcan Technologies",
+    "batch": "Summer 2025",
+    "domain": "vulcan.ai"
+  },
+  {
+    "company_id": "31047",
+    "name": "Waddle Labs",
+    "batch": "Summer 2026",
+    "domain": "www.waddlelabs.ai"
+  },
+  {
+    "company_id": "30644",
+    "name": "Wafer",
+    "batch": "Summer 2025",
+    "domain": "www.wafer.ai"
+  },
+  {
+    "company_id": "30881",
+    "name": "Wardstone",
+    "batch": "Fall 2025",
+    "domain": "www.wardstone.us"
+  },
+  {
+    "company_id": "31299",
+    "name": "Wayco",
+    "batch": "Winter 2026",
+    "domain": "wayco.ai"
+  },
+  {
+    "company_id": "30364",
+    "name": "Wayline",
+    "batch": "Summer 2025",
+    "domain": "wayline.com"
+  },
+  {
+    "company_id": "30228",
+    "name": "Weave",
+    "batch": "Winter 2025",
+    "domain": "weaveos.com"
+  },
+  {
+    "company_id": "30668",
+    "name": "Wedge",
+    "batch": "Summer 2025",
+    "domain": "www.wedge.health"
+  },
+  {
+    "company_id": "30318",
+    "name": "Wildcard",
+    "batch": "Winter 2025",
+    "domain": "wild-card.ai"
+  },
+  {
+    "company_id": "29666",
+    "name": "Willow",
+    "batch": "Spring 2025",
+    "domain": "willowvoice.com"
+  },
+  {
+    "company_id": "30321",
+    "name": "Woz",
+    "batch": "Winter 2025",
+    "domain": "www.wozcode.com"
+  },
+  {
+    "company_id": "29790",
+    "name": "YouShift",
+    "batch": "Winter 2025",
+    "domain": "www.you-shift.com"
+  },
+  {
+    "company_id": "30945",
+    "name": "Zalos",
+    "batch": "Fall 2025",
+    "domain": "www.zalos.ai"
+  },
+  {
+    "company_id": "31007",
+    "name": "Zarna",
+    "batch": "Fall 2025",
+    "domain": "www.zarnaai.com"
+  },
+  {
+    "company_id": "31459",
+    "name": "Zibra Labs",
+    "batch": "Spring 2026",
+    "domain": "zibralabs.ai"
+  },
+  {
+    "company_id": "31278",
+    "name": "Zymbly",
+    "batch": "Winter 2026",
+    "domain": "www.zymbly.com"
+  },
+  {
+    "company_id": "30223",
+    "name": "a0.dev",
+    "batch": "Winter 2025",
+    "domain": "a0.dev"
+  },
+  {
+    "company_id": "30355",
+    "name": "assistant-ui",
+    "batch": "Winter 2025",
+    "domain": "assistant-ui.com"
+  },
+  {
+    "company_id": "30051",
+    "name": "attimet",
+    "batch": "Fall 2024",
+    "domain": "attimet.com"
+  },
+  {
+    "company_id": "30689",
+    "name": "b12 Labs",
+    "batch": "Summer 2025",
+    "domain": "b12-labs.com"
+  },
+  {
+    "company_id": "30801",
+    "name": "burnt",
+    "batch": "Summer 2025",
+    "domain": "getburnt.ai"
+  },
+  {
+    "company_id": "30411",
+    "name": "cubic",
+    "batch": "Spring 2025",
+    "domain": "cubic.dev"
+  },
+  {
+    "company_id": "31538",
+    "name": "flowscope",
+    "batch": "Spring 2026",
+    "domain": "flowscope.com"
+  },
+  {
+    "company_id": "30883",
+    "name": "hillclimb",
+    "batch": "Fall 2025",
+    "domain": "hillclimb.com"
+  },
+  {
+    "company_id": "30730",
+    "name": "idler",
+    "batch": "Summer 2025",
+    "domain": "idler.ai"
+  },
+  {
+    "company_id": "31018",
+    "name": "item",
+    "batch": "Fall 2025",
+    "domain": "item.app"
+  },
+  {
+    "company_id": "30405",
+    "name": "nao Labs",
+    "batch": "Spring 2025",
+    "domain": "getnao.io"
+  },
+  {
+    "company_id": "31329",
+    "name": "primitive",
+    "batch": "Spring 2026",
+    "domain": "primitive.dev"
+  },
+  {
+    "company_id": "32259",
+    "name": "screenpipe",
+    "batch": "Summer 2026",
+    "domain": "screenpipe.com"
+  },
+  {
+    "company_id": "31096",
+    "name": "shortkit",
+    "batch": "Winter 2026",
+    "domain": "www.shortkit.dev"
+  },
+  {
+    "company_id": "30021",
+    "name": "telli",
+    "batch": "Fall 2024",
+    "domain": "telli.com"
+  },
+  {
+    "company_id": "30484",
+    "name": "throxy",
+    "batch": "Spring 2025",
+    "domain": "throxy.com"
+  },
+  {
+    "company_id": "30111",
+    "name": "x1",
+    "batch": "Fall 2024",
+    "domain": "x1.new"
+  }
+]

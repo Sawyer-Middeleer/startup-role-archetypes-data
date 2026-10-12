@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "analysis_date": "2026-10-11",
+  "collection_dates": "2026-10-08/2026-10-09",
+  "collection": "October 2026 public YC hiring snapshot; dates are not vacancy publication dates",
+  "source_sha256": "058218f08aea17675602cebe236830c26c270fd21bf5c84b9b58d10a5190886b",
+  "counts": {
+    "jobs": 1978,
+    "companies": 499,
+    "jobs_with_tasks": 1870,
+    "tasks": 1243,
+    "represented_tasks": 1226,
+    "families": 104,
+    "job_task_pairs": 16040
+  },
+  "files": {
+    "companies.csv": "309fc78b1c03b3038c5fa935c98b5b65da1eb9881f32ac1068a33f98e75d4e85",
+    "companies.json": "b2147264f209b4db0fd587f4fb4970be70b41921285bc44245d8d5fb14c1ef59",
+    "families.csv": "c4e313c85476a8505915de617f6d30149b6f9e336f269cb632528141895eac2b",
+    "families.json": "5e0ea49ff513a696011d51930d410c04ac49dd49f8ed270c7dad9b49d7413f34",
+    "job_tasks.csv": "2dbd30c37833dca130da88d7c29e4f5d9fa4e0852fd6315578cbbd5fa25a99f3",
+    "job_tasks.json": "917ca1a71b9eb8e084e91009d96e0a24cf0938913d5d43e26537e9f1acd46f28",
+    "jobs.csv": "7eb12ef5358249d5327bca9a9c8737ebebb93a3ce19048263e0393b18a3e29c0",
+    "jobs.json": "a6a490e85437ced407e093813b855f79c975529a08e9b5b69948f4da4aa680ef",
+    "task_activities.csv": "4c065b388076dffabd92c55ba50062ea6bb93fe873eda7371af64f91a36f2dc3",
+    "task_activities.json": "8776cd35bc66408ee7b59b91d6070d4e091605eacd70577fc999b50107287b81",
+    "tasks.csv": "47d97ccd1742c2adf0e5f5fb78ec2daa9f9087985839c644b55358e505118677",
+    "tasks.json": "d7ed69c4a899db3ae0b9c246866e09f72db570e9d50d1dc0483d68b375a369db"
+  }
+}

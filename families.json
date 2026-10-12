@@ -1,0 +1,522 @@
+[
+  {
+    "family_id": "ai_research",
+    "name": "AI and machine learning research",
+    "definition": "Develop learning algorithms, model architectures, representations and new AI methods through experiments."
+  },
+  {
+    "family_id": "ai_evaluation",
+    "name": "AI evaluation, safety and quality",
+    "definition": "Design evaluations, benchmarks, behavioral safeguards and diagnostic experiments for AI systems."
+  },
+  {
+    "family_id": "ai_supervision",
+    "name": "AI output review and operational supervision",
+    "definition": "Direct automated agents, review their work and handle exceptions in an operational workflow."
+  },
+  {
+    "family_id": "agent_engineering",
+    "name": "AI system and agent engineering",
+    "definition": "Build, integrate and configure AI systems and applications, including prompts, agent orchestration, memory and tool use. Broad AI-engineering sources remain broad tasks without invented methods."
+  },
+  {
+    "family_id": "training_data",
+    "name": "AI training data and environments",
+    "definition": "Specify, curate, annotate, validate or generate learning/evaluation data and training environments."
+  },
+  {
+    "family_id": "account_growth",
+    "name": "Account growth and renewals",
+    "definition": "Retain and expand commercial accounts, secure renewals and identify upsell opportunities."
+  },
+  {
+    "family_id": "finance_operations",
+    "name": "Accounting, payments and financial operations",
+    "definition": "Maintain books, reconcile accounts, bill, collect, pay and execute financial controls."
+  },
+  {
+    "family_id": "application_engineering",
+    "name": "Application and full-stack engineering",
+    "definition": "Implement end-to-end product features or broadly specified software functionality."
+  },
+  {
+    "family_id": "backend",
+    "name": "Backend services and APIs",
+    "definition": "Implement server-side services, APIs, business logic and asynchronous workflows."
+  },
+  {
+    "family_id": "brand_design",
+    "name": "Brand and graphic design",
+    "definition": "Create visual identities, graphic assets, presentations and marketing layouts."
+  },
+  {
+    "family_id": "business_analytics",
+    "name": "Business analysis and operational reporting",
+    "definition": "Analyze operational data, reconcile facts and build decision reporting."
+  },
+  {
+    "family_id": "process_improvement",
+    "name": "Business process discovery and improvement",
+    "definition": "Map operational workflows, diagnose friction and redesign procedures and operating models."
+  },
+  {
+    "family_id": "business_strategy",
+    "name": "Business strategy and organizational design",
+    "definition": "Plan company priorities, market expansion, operating models and strategic initiatives."
+  },
+  {
+    "family_id": "business_automation",
+    "name": "Business workflow automation and internal tools",
+    "definition": "Build technical automations and internal applications to execute business processes."
+  },
+  {
+    "family_id": "clinical",
+    "name": "Clinical care and healthcare operations",
+    "definition": "Deliver, coordinate and assure clinical services, patient workflows and medical administrative work."
+  },
+  {
+    "family_id": "infrastructure",
+    "name": "Cloud and distributed infrastructure",
+    "definition": "Build, scale and operate cloud, runtime, network, orchestration and distributed computing infrastructure."
+  },
+  {
+    "family_id": "people_development",
+    "name": "Coaching and staff development",
+    "definition": "Mentor, coach, train and develop colleagues and employees."
+  },
+  {
+    "family_id": "software_maintenance",
+    "name": "Code review, debugging and maintenance",
+    "definition": "Review code, diagnose software faults, refactor and maintain existing codebases."
+  },
+  {
+    "family_id": "growth_analytics",
+    "name": "Commercial and growth analytics",
+    "definition": "Measure funnel, attribution, campaign and revenue performance to guide commercial decisions."
+  },
+  {
+    "family_id": "partnerships",
+    "name": "Commercial partnerships and channels",
+    "definition": "Recruit, develop and manage partners for distribution, revenue or market access."
+  },
+  {
+    "family_id": "deal_execution",
+    "name": "Commercial proposals, negotiation and closing",
+    "definition": "Prepare offers and proposals, navigate procurement and negotiate or close commercial agreements."
+  },
+  {
+    "family_id": "community",
+    "name": "Community development and engagement",
+    "definition": "Build, engage and support user, developer or expert communities."
+  },
+  {
+    "family_id": "compilers",
+    "name": "Compiler and programming language engineering",
+    "definition": "Build compilers, code generation, program representations and language runtimes."
+  },
+  {
+    "family_id": "compliance",
+    "name": "Compliance, risk and governance",
+    "definition": "Define and operate controls, policies, certification, audit evidence and regulatory compliance."
+  },
+  {
+    "family_id": "content_distribution",
+    "name": "Content and social distribution",
+    "definition": "Publish, repurpose and distribute content through social, owned and earned channels."
+  },
+  {
+    "family_id": "workforce_operations",
+    "name": "Contractor and expert workforce operations",
+    "definition": "Coordinate external contributors, staffing capacity, assignment and delivery quality."
+  },
+  {
+    "family_id": "creative_direction",
+    "name": "Creative concepts and direction",
+    "definition": "Develop creative concepts, briefs, storyboards and direction for campaigns or productions."
+  },
+  {
+    "family_id": "creative_operations",
+    "name": "Creative production operations",
+    "definition": "Coordinate creative people, assets, schedules, localization and delivery quality."
+  },
+  {
+    "family_id": "customer_success",
+    "name": "Customer adoption and account service",
+    "definition": "Maintain customer relationships, monitor outcomes and guide continued effective product use."
+  },
+  {
+    "family_id": "customer_enablement",
+    "name": "Customer and partner education",
+    "definition": "Train users, partners or operators and create enablement experiences."
+  },
+  {
+    "family_id": "customer_implementation",
+    "name": "Customer onboarding and deployment",
+    "definition": "Configure, migrate, launch and coordinate customer adoption of a product or service."
+  },
+  {
+    "family_id": "customer_support",
+    "name": "Customer support and escalation",
+    "definition": "Investigate, resolve and communicate customer issues and manage support knowledge and escalations."
+  },
+  {
+    "family_id": "implementation_discovery",
+    "name": "Customer workflow discovery and solution scoping",
+    "definition": "Map customer operations, requirements and success criteria to scope a deployment or service."
+  },
+  {
+    "family_id": "data_engineering",
+    "name": "Data pipelines and platforms",
+    "definition": "Ingest, transform, model and transport data through scalable pipelines and data platforms."
+  },
+  {
+    "family_id": "data_quality",
+    "name": "Data quality and stewardship",
+    "definition": "Cleanse, reconcile, validate and govern source data and data integrity."
+  },
+  {
+    "family_id": "database_storage",
+    "name": "Databases and storage systems",
+    "definition": "Design schemas, queries, migrations, database engines and reliable storage layers."
+  },
+  {
+    "family_id": "design_systems",
+    "name": "Design systems and design quality",
+    "definition": "Create reusable visual and interaction standards, components and design review practices."
+  },
+  {
+    "family_id": "developer_tools",
+    "name": "Developer tools and delivery infrastructure",
+    "definition": "Build SDKs, frameworks, developer environments, build systems and continuous delivery tooling."
+  },
+  {
+    "family_id": "electronics",
+    "name": "Electrical, electronic and chip engineering",
+    "definition": "Design circuits, boards, RF/power electronics, sensors and semiconductor systems."
+  },
+  {
+    "family_id": "embedded",
+    "name": "Embedded software and firmware",
+    "definition": "Implement and integrate software on microcontrollers, devices and real-time embedded systems."
+  },
+  {
+    "family_id": "engineering_process",
+    "name": "Engineering practices and coordination",
+    "definition": "Establish engineering standards, team workflows, technical planning and execution practices."
+  },
+  {
+    "family_id": "events",
+    "name": "Events and field marketing",
+    "definition": "Plan and run events, webinars, conferences and field marketing programs."
+  },
+  {
+    "family_id": "executive_operations",
+    "name": "Executive support and company administration",
+    "definition": "Manage executive scheduling, travel, correspondence and general company administration."
+  },
+  {
+    "family_id": "integration_engineering",
+    "name": "External systems and API integration",
+    "definition": "Connect products to third-party software, enterprise systems and external services."
+  },
+  {
+    "family_id": "field_operations",
+    "name": "Field deployment, fleet and flight operations",
+    "definition": "Deploy, operate, maintain and coordinate physical systems, fleets, aircraft and field sites."
+  },
+  {
+    "family_id": "financial_planning",
+    "name": "Financial planning and capital strategy",
+    "definition": "Model revenue, costs, runway, budgets, capital needs and financial scenarios."
+  },
+  {
+    "family_id": "fundraising",
+    "name": "Fundraising and investor relations",
+    "definition": "Source and engage investors, pitch financing, coordinate diligence and communicate with investors and boards."
+  },
+  {
+    "family_id": "graphics_games",
+    "name": "Graphics, games and media software",
+    "definition": "Develop rendering, graphics, game mechanics and media-processing software."
+  },
+  {
+    "family_id": "hardware_integration",
+    "name": "Hardware integration, assembly and prototyping",
+    "definition": "Fabricate, assemble, bring up and integrate physical prototypes and subsystems."
+  },
+  {
+    "family_id": "hardware_architecture",
+    "name": "Hardware systems architecture and requirements",
+    "definition": "Define cross-subsystem physical architecture, requirements, interface budgets, component choices and system-level trade studies."
+  },
+  {
+    "family_id": "hardware_testing",
+    "name": "Hardware validation and field testing",
+    "definition": "Test, characterize, analyze failures and validate physical systems in lab or field."
+  },
+  {
+    "family_id": "observability",
+    "name": "Instrumentation and observability systems",
+    "definition": "Build logs, metrics, traces, alerts and diagnostic infrastructure."
+  },
+  {
+    "family_id": "insurance",
+    "name": "Insurance underwriting, placement and servicing",
+    "definition": "Assess insurance risks, submit/place coverage, manage carrier workflows and service policies."
+  },
+  {
+    "family_id": "logistics",
+    "name": "Inventory, logistics and fulfillment",
+    "definition": "Plan and execute inventory, shipment, material handling, delivery and order fulfillment."
+  },
+  {
+    "family_id": "lab_operations",
+    "name": "Laboratory and research operations",
+    "definition": "Operate laboratory workflows, equipment, specimens, safety and research logistics."
+  },
+  {
+    "family_id": "legal",
+    "name": "Legal drafting, counsel and transactions",
+    "definition": "Research law, draft/review/negotiate legal instruments and execute legal matters."
+  },
+  {
+    "family_id": "lifecycle_growth",
+    "name": "Lifecycle and product-led growth",
+    "definition": "Improve activation, conversion, engagement and retention through lifecycle programs and experiments."
+  },
+  {
+    "family_id": "lending_operations",
+    "name": "Loan origination, underwriting and servicing",
+    "definition": "Structure loans, assess borrower applications, underwrite credit and coordinate lending cases or loan servicing."
+  },
+  {
+    "family_id": "compute_systems",
+    "name": "Low-level compute and systems engineering",
+    "definition": "Build operating-system components, device drivers, GPU kernels, virtualization and low-level runtimes."
+  },
+  {
+    "family_id": "ml_platform",
+    "name": "ML infrastructure and deployment",
+    "definition": "Build and operate model training/serving platforms, experiment pipelines and deployment systems."
+  },
+  {
+    "family_id": "service_operations",
+    "name": "Managed service and delivery operations",
+    "definition": "Execute and coordinate recurring client work, service quality and delivery commitments."
+  },
+  {
+    "family_id": "manufacturing_operations",
+    "name": "Manufacturing and production operations",
+    "definition": "Run production, quality inspection, scheduling and factory execution."
+  },
+  {
+    "family_id": "manufacturing_engineering",
+    "name": "Manufacturing process and test engineering",
+    "definition": "Design production processes, fixtures, manufacturable parts and quality-control systems. Includes process scale-up and technology transfer into production."
+  },
+  {
+    "family_id": "market_research",
+    "name": "Market and competitor research",
+    "definition": "Investigate markets, audiences, competitors and commercial opportunities."
+  },
+  {
+    "family_id": "campaign_strategy",
+    "name": "Marketing and go-to-market planning",
+    "definition": "Select audiences, channels, budgets and campaign or market-entry plans."
+  },
+  {
+    "family_id": "mechanical",
+    "name": "Mechanical and physical hardware engineering",
+    "definition": "Design structures, mechanisms, thermal systems and physical product components."
+  },
+  {
+    "family_id": "mobile_desktop",
+    "name": "Mobile and desktop application engineering",
+    "definition": "Build native or cross-platform installed applications and their platform integrations."
+  },
+  {
+    "family_id": "model_optimization",
+    "name": "Model inference and efficiency",
+    "definition": "Optimize learned model inference, compression, serving performance and computational efficiency."
+  },
+  {
+    "family_id": "model_training",
+    "name": "Model training and adaptation",
+    "definition": "Train, fine-tune and adapt learned models, including post-training and reinforcement learning runs."
+  },
+  {
+    "family_id": "paid_acquisition",
+    "name": "Paid acquisition",
+    "definition": "Launch, manage and optimize paid advertising and acquisition spending."
+  },
+  {
+    "family_id": "people_operations",
+    "name": "People policies and employee operations",
+    "definition": "Administer compensation, onboarding, employment policies, benefits and employee experience."
+  },
+  {
+    "family_id": "video_audio",
+    "name": "Photography, video, animation and audio production",
+    "definition": "Capture, record, edit, animate and finish photography, time-based media and 3D creative assets."
+  },
+  {
+    "family_id": "scientific_research",
+    "name": "Physical, biological and quantitative research",
+    "definition": "Investigate scientific questions through experiments, modeling and domain analysis."
+  },
+  {
+    "family_id": "positioning",
+    "name": "Positioning and messaging",
+    "definition": "Define audience-facing value propositions, narratives, brand positioning and product messaging."
+  },
+  {
+    "family_id": "pricing_packaging",
+    "name": "Pricing, packaging and monetization",
+    "definition": "Define product offers, pricing frameworks, packaging, monetization models and willingness-to-pay experiments."
+  },
+  {
+    "family_id": "procurement",
+    "name": "Procurement and supplier management",
+    "definition": "Source, qualify, negotiate and coordinate suppliers, materials and external services."
+  },
+  {
+    "family_id": "product_design",
+    "name": "Product and interaction design",
+    "definition": "Design usable interfaces, interactions, onboarding and coherent product experiences."
+  },
+  {
+    "family_id": "product_research",
+    "name": "Product and user research",
+    "definition": "Discover user problems and test product hypotheses through interviews, observation and usability research."
+  },
+  {
+    "family_id": "product_definition",
+    "name": "Product definition and prioritization",
+    "definition": "Translate evidence into product requirements, scope, roadmap and priorities."
+  },
+  {
+    "family_id": "production_reliability",
+    "name": "Production reliability and incident response",
+    "definition": "Monitor production health, troubleshoot incidents, recover services and prevent recurring outages."
+  },
+  {
+    "family_id": "project_delivery",
+    "name": "Project and program delivery",
+    "definition": "Scope, schedule, coordinate, track and deliver cross-functional projects and programs."
+  },
+  {
+    "family_id": "prospecting",
+    "name": "Prospect research and outreach",
+    "definition": "Identify target accounts, research contacts and conduct outbound outreach to generate meetings."
+  },
+  {
+    "family_id": "public_relations",
+    "name": "Public relations and external affairs",
+    "definition": "Manage press, public communications, government relationships and external reputation."
+  },
+  {
+    "family_id": "recruiting",
+    "name": "Recruiting and candidate assessment",
+    "definition": "Define hiring needs, source, interview, evaluate and close candidates or experts."
+  },
+  {
+    "family_id": "research_communication",
+    "name": "Research dissemination and scientific collaboration",
+    "definition": "Publish scientific findings, communicate research methods and coordinate substantive research collaboration."
+  },
+  {
+    "family_id": "revenue_operations",
+    "name": "Revenue systems and sales operations",
+    "definition": "Maintain CRM, pipeline processes, forecasting workflows, enablement systems and commercial team operations."
+  },
+  {
+    "family_id": "robotics_controls",
+    "name": "Robotics, perception and control",
+    "definition": "Build robotic sensing, state estimation, planning, control and autonomous behaviors."
+  },
+  {
+    "family_id": "sales_discovery",
+    "name": "Sales discovery and buyer development",
+    "definition": "Assess buyer needs, fit, stakeholders, budgets and decision processes; develop buying committees, champions, executive buyer relationships and account pursuit plans."
+  },
+  {
+    "family_id": "scientific_computing",
+    "name": "Scientific simulation and computational methods",
+    "definition": "Build simulations, numerical methods and domain scientific software."
+  },
+  {
+    "family_id": "search_acquisition",
+    "name": "Search visibility and acquisition",
+    "definition": "Improve discovery through traditional search and AI answer engines, including technical and content optimization."
+  },
+  {
+    "family_id": "search_retrieval",
+    "name": "Search, retrieval and knowledge systems",
+    "definition": "Build indexing, retrieval, ranking, entity resolution and knowledge representation systems."
+  },
+  {
+    "family_id": "security_engineering",
+    "name": "Security and privacy engineering",
+    "definition": "Build protective controls, identity/access systems, isolation and privacy-preserving technical mechanisms."
+  },
+  {
+    "family_id": "security_testing",
+    "name": "Security assessment and research",
+    "definition": "Investigate vulnerabilities, conduct authorized security testing, review controls and analyze threats."
+  },
+  {
+    "family_id": "security_operations",
+    "name": "Security monitoring and incident response",
+    "definition": "Monitor threats, detect and investigate security incidents, coordinate containment and recovery, and review security events."
+  },
+  {
+    "family_id": "performance",
+    "name": "Software and compute performance optimization",
+    "definition": "Profile, benchmark and optimize runtime latency, throughput, memory and compute efficiency."
+  },
+  {
+    "family_id": "software_architecture",
+    "name": "Software architecture and technical direction",
+    "definition": "Choose system boundaries, abstractions, technologies and technical designs."
+  },
+  {
+    "family_id": "software_testing",
+    "name": "Software testing and correctness",
+    "definition": "Develop tests, validation suites, quality checks and formal software correctness methods."
+  },
+  {
+    "family_id": "solution_sales",
+    "name": "Solution demonstrations and technical validation",
+    "definition": "Demonstrate products, scope solutions, run proofs of value and establish technical buying confidence."
+  },
+  {
+    "family_id": "people_management",
+    "name": "Team leadership and performance management",
+    "definition": "Manage people, allocate responsibility, set team goals and hold performance accountability."
+  },
+  {
+    "family_id": "technical_documentation",
+    "name": "Technical documentation and knowledge systems",
+    "definition": "Document technical systems, decisions, operational runbooks and reusable internal knowledge. Includes public SDK/API documentation and procedural tutorials."
+  },
+  {
+    "family_id": "trading",
+    "name": "Trading, investment and financial market operations",
+    "definition": "Research, execute and manage market-making, trading, valuation and market risk workflows."
+  },
+  {
+    "family_id": "frontend",
+    "name": "Web interfaces and frontend engineering",
+    "definition": "Implement browser interfaces, reusable UI components and frontend behavior."
+  },
+  {
+    "family_id": "workplace",
+    "name": "Workplace, facilities and IT operations",
+    "definition": "Run offices, facilities, equipment, internal IT and workplace safety."
+  },
+  {
+    "family_id": "writing",
+    "name": "Writing and editorial production",
+    "definition": "Research, write and edit articles, scripts, copy and educational or commercial text."
+  }
+]
